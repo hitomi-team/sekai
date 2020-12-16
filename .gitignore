@@ -130,3 +130,7 @@ dmypy.json
 
 # Compiled data files
 data.txt
+data_*.txt
+
+# Knowledge graph files
+*.json
