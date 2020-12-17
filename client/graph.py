@@ -25,9 +25,9 @@ def graph_compile(inputstr):
         inputstr = inputstr.lower()
         for i in graph:
                 if i in inputstr:
-                        compiled += graph_retrieve(i) + '\n'
+                        compiled += graph_retrieve(i) + ' '
         
-        return compiled
+        return compiled + '\b\n'
 
 def graph_save(filepath):
         fp = open(filepath, "w")
