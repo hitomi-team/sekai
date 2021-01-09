@@ -23,18 +23,16 @@ class GPT2Generator:
 
                 self.model.eval()
         
-        def tokenize(self, prompt, context, maxHistory=1024):
-                assert(prompt + context)
-                prompt += '\n' + context
-                context_tokens = self.tokenizer.encode(prompt, add_special_tokens=False, return_tensors="pt")
+        def tokenize(self, text, maxHistory=1024):
+                assert(text)
+                context_tokens = self.tokenizer.encode(text, add_special_tokens=False, return_tensors="pt")
 
                 if len(context_tokens) > maxHistory:
                         context_tokens = context_tokens[-maxHistory:]
-                print('Context Token Length: ' + str(len(context_tokens)) + '\n')
 
                 return context_tokens.to(self.device)
         
-        def sample_sequence(self, context):
+        def sample_sequence_raw(self, context):
                 output_sequences = self.model.generate(
                         input_ids=context,
                         max_length = self.generate_num + len(context[0]),
@@ -43,9 +41,20 @@ class GPT2Generator:
                         top_p = self.top_p,
                         repetition_penalty = self.repetition_penalty,
                         do_sample = True,
-                        num_return_sequences = 1
+                        num_return_sequences = 1,
+                        pad_token_id=198,
+                        eos_token_id=50256
                 )
 
                 text = self.tokenizer.decode(output_sequences[0], skip_special_tokens=True)
-                        
                 return text
+
+        def sample_sequence(self, prompt, context, maxHistory=1024):
+                assert(prompt + context)
+                prompt += "\n" + context
+
+                encoded_prompt = self.tokenize(prompt)
+                sample = self.sample_sequence_raw(encoded_prompt)
+
+                return sample[len(prompt):]
+
