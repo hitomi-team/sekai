@@ -134,3 +134,6 @@ data_*.txt
 
 # Knowledge graph files
 *.json
+
+# Training files
+runs/
