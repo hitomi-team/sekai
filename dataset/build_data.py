@@ -79,6 +79,8 @@ def standardize_punctuation(text):
 	text = text.replace("`", "'")
 	text = text.replace("“", '"')
 	text = text.replace("”", '"')
+	text = text.replace("…", '...')
+	text = text.replace("—", '-')
 	return text
 
 def first_to_second_person(text):
