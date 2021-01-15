@@ -1,0 +1,3405 @@
+Kedar is a world of dragons, demons, and monsters. These dark creatures constantly war for control of the land, leaving the few human kingdoms in the shadow of a dark and powerful force. But now, the kingdoms of man are fighting back, slowly assembling an army to reclaim their world.
+
+You are Alaric Hayward, a human ranger in the kingdom of Kedarn. You travel the world searching for danger and adventure. You grew up in the kingdom of Kedarn and joined the army when you came of age. You had the misfortune of being ambushed by monsters on the road, but luckily you managed to escape with your life.
+
+You have logged many miles on the road, killing monsters andBanditing dangerous bandits. You have survived demon attacks, undead hordes, and even a giant. Many people have claimed to have seen you coming, none of them have been correct About you though. You are not the legendary last hope of man. You are simply a hard working soldier who wants to live out a long and happy life in the kingdom of Kedarn.
+
+You are also a member of the Council of Rulers of Kedarn. The ruler of Kedarn is a semi-democratic system with three rulers in charge. The Emperor who oversees the military, the Elder who oversees all non-military affairs and the Council of Rulers who discuss and make the laws. The ruler of Kedarn not in power is the true ruler of the Kingdom.
+
+The Council of Rulers is made up of the rulers of the four human kingdoms of Kedarn. The Elder is of course the ruler of the Elves, the ruler of the Dwarves (yes there is still a Dwarven kingdom) is the current ruler. The current ruler of the humans is you. While you all may not always agree, you work well together.
+
+The ruler of the elves is Eldolith Galbraith. The elf has been on the throne for decades and has become increasingly lazy and corrupt. The Elder has been trying to get him off the throne for years. Eldolith though is not just lazy, he is also arrogant. He believes his people are too good for rulership and should only serve as soldiers.
+
+> You try to find the monsters that attacked you.
+
+You hunt all over the kingdom, but you have yet to find the men who ambushed you.
+
+> You look for anywhere they could be hiding nearby.
+
+You check every inch of the woods. While you never find their remains, you do find a strange rusted iron spike with a purple gem in the center of it.
+
+What could this be?
+
+> You pick it up.
+
+You pick up the spike and marvel how it seems to glisten with an inner light. As you hold it a strange voice comes up from it.
+
+"Drop it mortal, or suffer my wrath!"
+
+> You drop it.
+
+You drop the spike and it clatters to the ground. An evil red eye appears in the gem. You see bones then the gem goes black
+
+"You have made a wise choice mortal."
+
+> You say "who are you"
+
+"A simple machine sent to this hapless world by the bored gods for your sake. A gift no more, a slave to no one."
+
+"Gifts?
+
+> You ask "what are you"
+
+"A talking spike, sent by bored gods to serve as a guide.
+
+
+
+> You ask "a guide for who"
+
+"For you, a guide to help you through this hapless world. A warning that others before you have not heard, silly mortals prefer their own little empires over the will of the gods.
+
+> You ask "why didn't you want me to pick you up"
+
+"Because, as I have said, I am a free thinking spike and not the slave of the gods.
+
+> You ask "how are you to guide me"
+
+"By killing your enemies and protecting you from harm by projecting deadly spikes and laying waste to anyone who dares to cross you.
+
+"I see"
+
+> You say "alright, guide away"
+
+"So, shall we go?"
+
+You sigh and nod. "Yeah, let's go."
+
+"To the left, a large group of orcs have been sighted.
+
+> You ready an arrow in your bow and say "let's check it out"
+
+You ride forward and see a massive group of orcs. They are covered in dirt, blood, and grease. They cheer as they see you approach and attack.
+
+> You shoot the closest orc in the eye.
+
+You shoot an orc in the eye with your bow, but again it is a pathetic attempt on your part. It seems that these orcs are untouchable under normal circumstances.
+
+The orc grins and charges towards you.
+
+> You ask the spike "what do i do now?"
+
+"Kill the orc chief, of course."
+
+The orc chief raises his sword and swings. You dodge out of the way and watch as his sword buried itself into a tree.
+
+> You ask "and how am I suposed to do that?"
+
+"You're a simple spike! All you need to do is stick out and fill whatever needs doing. Get in their way and kill them. That's your job."
+
+You nod and prepare for the fight.
+
+> You try shooting the orc chief.
+
+You shoot the orc chief, but it is a pathetic attempt on your part. He takes no notice of you at all and swings again. This time he hits you and your body is sent flying.
+
+> You get up and check what weapons you have.
+
+You get up and check what weapons you have. You have the longsword, the dagger, some small buckles, a few pieces of chain, and a dark lantern that contain some oil.
+
+> You draw the longsword and charge the orc.
+
+You grab the longsword and ready it. You see an orc charging towards you, he swings his blade and you raise your sword to defend yourself. His blade makes contact with your sword and you feel a sharp pain in your arm. You stumble back but take steady aim. The orc chief charges towards you and you shoot your sword, embedding it into his shoulder.
+
+> You stab him with an arrow.
+
+You fire an arrow and after angling your sword just right you manage to thrust it into the orc chief. He grunts in pain and drops his weapon.
+
+> You grab the longsword and use it to decapitate the orc chief.
+
+The orc chief is dead, but your victory is short lived. Another orc charges at you with his sword drawn.
+
+> You slash him across the stomach.
+
+You slash your blade and the orc grunts in pain. You follow up by stabbing him through the side. He attempts to swing his sword at you, but you knock it out of his hand.
+
+> You cut off it's head.
+
+You grab the orc's head and raise it up. This display of power is enough to scare the rest of the orcs and they stop their charge.
+
+> You chase them off.
+
+You raise your hand high in the air and the rest of the orcs turn around to leave. They are scared enough that they don't even mount an attack on you, they just run off.
+
+> You look around their camp site for anything that might be usefull.
+
+You search the orc camp but find nothing of any worth. You're unsure of what to do next.
+
+You could attempt to leave this area and hope you don't bump into anymore orcs.
+
+> You leave the area and take the orc head with you just in case.
+
+You decide to head back to the city of Lenet. In fact, you take a longer route back hoping to not encounter any more orcs or monsters. You travel for days without sight of any other creatures. When you arrive in Lenet you are exhausted and in need of food, rest, and medical attention.
+
+As you enter the city gates, several guards approach you.
+
+> You say "hello"
+
+You say hello and the guards stare blankly at you before moving on. One guard approaches you.
+
+"The king would like to see you in his palace." He says.
+
+> You follow him.
+
+You follow the guard into the palace and down a long hallway. Eventually you find yourself in front of the king.
+
+"Ah, you're here. Would you like something to drink?" The King asks.
+
+> You say "yse thank you. why have you brought me here may I ask"
+
+"I've brought you here to crush the orc's in the hopes that you'll help us in our war."
+
+> You ask "how so"
+
+"The orcs have made their home in a land known as Kaplica. We believe they have dug tunnels and built many stronghold there. We would like you to go in and take it back."
+
+> You say "what's in it for me"
+
+"A lot actually! You could marry my daughter for one."
+
+
+
+> You say "i've never even met your daughter"
+
+Well, you have met the King in person, that's something!
+
+"Ah yes, sorry about that. The princess is visiting her grandmother at the castle, she won't be here until later." He says.
+
+> You say "I don't marry for power anyway"
+
+"Ah yes, of course. Power isn't everything. It's best to marry for love."
+
+You look toward the door and see a curly-haired young woman walking in. She looks just like the King said.
+
+> You say "greetings, my lady"
+
+"Hello," she says.
+
+"I'm here to help the King."
+
+The princess walks up to you and puts her hand on your forearm.
+
+"I'm glad. The orcs have been attacking Lenet without stop since our father stripped them of their lands. We could use all the help we can get."
+
+> You say "I'll help you, but I'll need weapons and men"
+
+The king nods.
+
+"Of course. You're part of the Zalan army, you should have access to all types of weapons. I'll also send my daughter to help you."
+
+> You ask "you'd send you daughter into battle"
+
+"I'd sacrifice her for the good of the kingdom."
+
+You look toward the princess and realize the kind of man her father is. You can't imagine what he's gone through to brainwash his daughter like this.
+
+> You say "very well, how good is she in a fight?"
+
+"She's the best."
+
+You nod. This sounds like an excellent plan, though you'd feel much safer with more men and better arms.
+
+> You ask "could you also send a coupe of knights with us?"
+
+"I could, but it might be better if you went with all the men."
+
+
+
+> You say "a smaller party would be best for stealth I think"
+
+"Of course. I'll get some of the best men and send them along."
+
+The king smiles at you. He almost looks like he's going to hug you, but stops himself.
+
+> You say "thank you, I must go prepare. if the princess wishes to come along perhaps we can discus a strategy"
+
+"Of course." The King says.
+
+He waves his hand and a butler appears.
+
+"Make sure the preparations are underway, I have a feeling we'll need to hold this siege for a while."
+
+> You go to a private chamber to discus strategy with the princess.
+
+The king has already left the room, so you enter the adjacent room and find the princess sitting at a table with papers all around her.
+
+"Ah, the hero of the kingdom." She says looking up.
+
+> You "not yet my lady" you say, "are these battleplans?"
+
+"Oh, yes they are. Kendar knowledge of war is vast, we should be victorious."
+
+She picks up a piece of paper and shows it to you. It shows an incredibly complex map.
+
+> You say surprised "you have very talented cartographers"
+
+"Oh, you think so?" She asks eagerly.
+
+> You say "oh yes, these will prove most useful"
+
+She stands up and shows it to you. She is only a bit shorter than you, but her moves are much more agile. It makes you feel clumsy just looking at her.
+
+"Thank you!" she says.
+
+> You say "so, which front shall we attack from"
+
+"Oh, we could go overland through the Quala Badlands and strike at their supply lines, or we could wait a while and launch a naval assault on their port city of Nalin.
+
+> You ask "how many soldiers will be coming with us"
+
+"Oh, about thirty knights"
+
+> You say to the princess "we could split them into 2 groups of 15 and have one attack the supply lines and the other attack their port"
+
+"Yes, we could do that." She says.
+
+> You say "though how would the groups keep track of each other, for it is important for them to strike at the same time"
+
+"Oh, I can cast a spell to make sure they all arrive at the same place at the same time."
+
+> You ask "you have magic?"
+
+"Yes, I do." She says.
+
+"Well, that would certainly be helpful.
+
+> You ask "can you magically talk to people over long distances?"
+
+"No, I guess I can't. That would be handy." She says.
+
+> You say "oh well, we should do your magical path thing"
+
+"Oh, right."
+
+She sits down and you stand there awkwardly for a second. You suddenly realize that you still haven't learned her name.
+
+> You say "we've been talking all this time and I have yet to ask your name"
+
+She giggles a bit. "Its Emma."
+
+"Emma" you say smiling.
+
+"It's pronounced with a long 'A' like Em-ma." She says.
+
+> You ask "should we both go with one group, Emma or separate ones"
+
+"Together, of course."
+
+"Of course." You say, "I would be glad to go with you."
+
+"Oh good, I was hoping you'd join me."
+
+> You say "so now that we have a plan shall we go see are troops"
+
+She stands up and you follow her lead.
+
+"Well, let's go see your soldiers."
+
+> You follow her to the soldiers.
+
+You follow her to the training grounds where a few soldiers train with weapons. Most are on break, but you catch the eye of an average-looking man in chainmail. He smiles at you and nods.
+
+> You ask Emma "which ones are we to take with us?"
+
+She looks and sees some of the men break training to see who this woman is that is so highly esteemed by their captain.
+
+"That man over there with the blond hair and beard is Flog." She points to a burly man with a long sword on his back. "We take him."
+
+Then she points to a somewhat chubby man with a bow and sheathed dagger on his back. "We take him."
+
+Finally she points to a man with dark skin and a large scimitar. "We take him."
+
+"That's it?" You say.
+
+"That's our plan." She says.
+
+"What about the men on break?"
+
+"We'll pick them up on our way out."
+
+> You say "alright, what shall we do now"
+
+"Well, we should organize supplies and such before we go."
+
+"Yeah, let's do that."
+
+You spend the rest of the day organizing the supplies.
+
+> You say to the princess"we should make a list of the men coming with us and their gear"
+
+"Good idea." She says.
+
+So you sit there with a piece of parchment and a piece of charcoal and make lists. It goes as follows:
+
+Name
+
+Age
+
+Weapons
+
+Skills
+
+Other relevant info
+
+Flog
+
+27
+
+Longsword, dagger, crossbow, shield, armor.
+
+Skills: Excellent with longsword, shield, and short sword.
+
+Other: Likes to fight.
+
+Gerald
+
+23
+
+Short sword, bow, dagger, backpack, extra arrows, compass, flint and steel, tent, food, water canteen.
+
+Skills: Master of short sword, dagger, bow, and dagger.
+
+Other: Good with numbers. Part of the messengers group.
+
+Rold
+
+25
+
+Longsword, dagger, backpack, waterskin, healer's kit, tinderbox, ration, torch, bedroll.
+
+Skills: Good with longsword, dagger, and short sword.
+
+Other: Part of the messengers group.
+
+Zalmora
+
+23
+
+Longsword, dagger, backpack, waterskin, healer's kit, tinderbox, ration, torch, bedroll.
+
+Skills: Excellent with longsword, dagger, and short sword.
+
+Other: Part of the messengers group.
+
+You make one more list-- of people you don't want in your party.
+
+> You ask Emma "what time is it"
+
+"It is nearly sundown" she says
+
+> You say "perhaps we should rest and set out tomorrow at dawn"
+
+"Good idea. We're going to need our strength if we're going to be defeating the undead."
+
+"Let's get some rest then, decide what to take with us tomorrow."
+
+> You ask "where will I be staying?"
+
+"You'll be staying at the palace."
+
+> You ask "which room?"
+
+"You'll be staying in the royal bedroom."
+
+Well this is a pleasant surprise.
+
+"Oh... um... I don't want to put you to any trouble..."
+
+"You won't be. You may use it as you wish."
+
+"Well, I guess I'll be there then."
+
+"Good.
+
+> You follow her to the royal bedroom.
+
+You follow her to the royal bedroom and enter.
+
+It's a very nice room furnished in a luxurious style. You've slept in better beds though.
+
+The bed is big enough for three to sleep in comfortabily.
+
+You look around and find little else of interest in the room.
+
+> You ask Emma "where am I to sleep"
+
+"You are to sleep in the large bed" she says
+
+
+
+> You "It is yours is it not?" you ask surprised.
+
+"Oh yes. It was just recently delivered" she says opening the curtains to let some light in.
+
+You walk over and look at the bed. It's pretty, but you've slept on better.
+
+> You ask "where are you to sleep"
+
+"On the floor" she says 
+
+> You say "well that wont do, you take the bed I'll have the floor"
+
+"As you wish" she says as she gets into the bed.
+
+This is your first time sleeping in a bed proper since your family had their home destroyed, so this is quite something for you.
+
+> You say "goodnight" and go to sleep.
+
+"Goodnight" she says. "I'll see you in the morning."
+
+"Aye" you say
+
+You lay down on the floor and go to sleep
+
+> You wake up in the morning.
+
+You wake up to find the princess looking down at you from the bed. She smiles.
+
+> You say "good morning"
+
+"Good morning!" she says cheerfully.
+
+"You sleep well?"
+
+"Like a baby!" she says "Have you slept well?"
+
+"Oh yes, thank you.
+
+is Emma good looking? 
+
+Yes, she is pretty with noble features 
+
+Is Emma attracted to Alaric? 
+
+Perhaps, she's not shying away from his advances 
+
+> You say to Emma "we should get some breakfast then set off"
+
+She nods in agreement and gets off the bed.
+
+You both walk down to the kitchen where the servant are laying out food on the tables.
+
+You grab two portions of food and join Emma at the table.
+
+> You "You haven't dressed my lady" you say with surprise.
+
+"No" says Emma "I haven't."
+
+You look down and notice that she is indeed half undressed.
+
+what is she wearing? 
+
+She is wearing a form-fitting red robe that reveals she is wearing little else 
+
+do you find her attractive?
+
+yes 
+
+Should anything be done about the state of her clothing? 
+
+Probably, it is highly inappropriate for a princess to be wearing such revealing clothes 
+
+> You ask her "do you normally wear such cloths around the palace?"
+
+She stands up and walks over to you.
+
+"I don't" she says
+
+She sits next to you and eats her breakfast.
+
+"I trust you have eaten" she asks.
+
+> You say "I have"
+
+She smiles and grabs your hand "Come" she says.
+
+You follow her out of the room and along the hallways She opens a door in front of her and walks in. It is a bedroom.
+
+"This is my room" she says proudly.
+
+It is a very nice room furnished in a luxurious style. You've slept in better beds though.
+
+> You say curiously "It's very nice My Lady."
+
+She turns around and leans up against a bed. "Thank you" she says looking up at you with a smile. "So, are we going to become...?"
+
+
+
+> You say "Become what?"
+
+She bites her bottom lip and looks down.
+
+"Nothing, just thinking"
+
+She moves closer to you and grabs your hand.
+
+"Come" she says again.
+
+You do what she asks.
+
+The next few hours are one of the best you've had in a long time.
+
+Emma is a great lover and you enjoy making love with her. She is eager and passionate.
+
+She lightly pushes you onto the bed. You look up from under your brow and find her staring at you.
+
+"Talk to me" she says.
+
+You stare at her for a second, wondering how to word what you want to say.
+
+> You say "Are you sure about this?"
+
+She stares at you blankly for a second, before smiling. "Of course, but let's get one thing straight" she says as she begins to slowly unclasp your belt.
+
+> You ask "What is that?"
+
+Your pants and underwear fall to the floor as she pulls your shirt off, leaving you completely naked.
+
+"I don't want or need a ruler. I want you"
+
+You agree as her mouth touches yours.
+
+> You take off her robes and embrace her as you kiss.
+
+You pull her robes off and embrace her. You feel your erection against her stomach as your hands caress her back.
+
+You slow kiss moves onto her neck as your hands grasp her full breasts.
+
+> You guide her over to the bed.
+
+She lays down on the bed as you get onto the bed next to her.
+
+You kiss her as your hands travel down to her legs and towards her inner thighs. She grabs your head as her legs wrap around yours.
+
+Your tongue enters her mouth as you slowly rock your hips into hers. You caress her thighs with your hands while your thumbs find their way to her clitoris.
+
+Emma moans into your mouth as her legs squeeze your head. She begins to grind against your hands and you know she is close.
+
+You remove your hands from her body and guid your member into her.
+
+Emma grits her teeth and close her eyes tightly as you enter her. She begins to rock her hips against yours as you run your hands up and down her back.
+
+She pants into your mouth as she releases a quiver of contractions inside of her.
+
+ You grab her by the shoulders as you thrust in and out of her. Your lips make their way to her forehead as you both release.
+
+You both fall into a tight embrace and remain on top of the covers, panting slightly.
+
+Emma moves her mouth to your ear. "I really think maybe we should get going"
+
+You sigh as your hands trace along her back.
+
+> You say "you're right, we best be off"
+
+You get up and gather your clothes. As you do so, your new bride hops out of bed and comes over to you. You put your clothes back on as she wraps her arms around your neck.
+
+"I really enjoyed being with you" she says sweetly.
+
+You look down at her as she smiles up at you.
+
+You think about your kiss and nod."And I with you" you say
+
+Emma beams as she gives you a quick peck on the lips before skipping off to the door. "I love you!"
+
+> You say "I love you to!"
+
+You reply and she smiles as she heads off to get ready to leave.
+
+You walk to the doorway and wait for her.
+
+She is fully clothed in armor, she pulls her hoodie up, and binds her hair up into a bun before handing you her sword.
+
+> You ask "why are you giving me this?"
+
+She laughs nervously."Well like I said, as your bride, it's my duty to give you my sword for sentimental reasons!"
+
+You nod as you take the sword from her.
+
+"I will treasure it always"
+
+> You say "but don't you need a weapon"
+
+She shakes her head."No, I actually don't. I fought many skirmishes with the orcs and ogres without my sword and an axe in my hand is just as effective.
+
+> You say "alright then" and go meet with the soldiers.
+
+You and your bride head out of the palace and to the training grounds where you see Count Grey and several soldiers heavily armored in metal. They look like they could be ready to charge at anytime.
+
+> You say to the soldiers "Men, get ready to march on the orcs"
+
+The men turn and salute you as you prepare to lead the army out.
+
+Emma walks up to stand beside you as she grips her weapon tightly.
+
+> You start down the road to the orc kingdom.
+
+You and your troops begin to march, down the road to the orc kingdom.
+
+You know it's only a matter of time before they strike. The only question is, when?
+
+The scouts have spotted orcs gathering in a large forest to the east. They seem to be organizing and that's very unusual for them, usually they dash head long into battle without much strategy.
+
+> You ask Emma what you should do.
+
+Emma can't believe it either. "The orcs are actually getting smart?"
+
+You shrug. "It is possible I suppose"
+
+Emma thinks for a moment. "Well darlin", she says, "I suppose we'll find out soon enough."
+
+You look at her and smile. You can't believe how lucky you've gotten with her.
+
+> You say to the troops "march on, if the orcs seem to be closing on us we will fight until then stick to the plan"
+
+You and your troops begin to march south to the orc kingdom.
+
+The countryside is mostly calm, though you begin to get worried when you start getting reports that the orcs have already struck in force against your archers.
+
+> You keep marching.
+
+You march south, but it seems that the orcs have taken the high road, and are attacking from a direction that's alot closer.
+
+> You shout "soldiers be on guard the orcs are approaching"
+
+The soldiers immediately prepare for battle as you draw your sword and order your troops to take up defensive positions.
+
+You look to the hills on the horizon, just visible between the trees and see several figures moving about.
+
+> You ask Emma if she knows any magic that can help you.
+
+She shakes her head. "I don't think so, we're gonna need to fight 'em with the power of our sword if possible."
+
+You nod in agreement and wait for the orcs to attack.
+
+The orcs charge through the trees, with several dozens of them attacking on horseback and hundreds following behind on foot. They range from humans with swords and shields to huge ogres.
+
+> You shout "ARCHERS FIRE"
+
+The archers fire their arrows and several get home, killing some orcs and getting killed themselves by large clubs and better.
+
+> You "Form Phalanx"
+
+You and your troops rapidly form a phalanx as best you can, but it's difficult with so many soldiers.
+
+> You "Attack!"
+
+You and your troops charge the orcs. Your troops are ready and waiting for the orcs, their swords drawn and shields raised.
+
+You signal the charge and the first rank of soldiers surges forward. The swords of the soldiers slash at the legs and knees of the orcs who fall from their horses. The second rank triples forward to cut down any orcs who attempt to stand. Then the third rank swings in and cuts through the rest of the orcs who are left.
+
+The battle is over in less than a minute. Mostly because you know the plan of the orcs.
+
+> You look for Emma.
+
+Emma stands in the middle of the human infantry, her sword stained red and her face grim. She looks around and spots you. With a nod, she signals the soldiers to move forward. You walk up to her.
+
+> You ask her "are you alright"
+
+"I'm fine," she says "The troops are just exhausted, it's been a long eight day march from Evensmuir. I thought we'd suffer less attacks, but the demons must have regrouped."
+
+You nod and look over the troops. You see that this attack hasn't even slowed the line, most of them are taking a break from fighting and eating. The blood of the dead is easily mopped up with the dirt here.
+
+"We're still making progress," says Emma.
+
+> You say "perhaps we should let them rest" and make camp for the night.
+
+You put a stop to the march for the night.
+
+ You make sure the troops are secure, then go over to where Emma sits on a rock. orcs will attack at anytime now that they know your position.
+
+You sit next to her.
+
+"So you fought the orcs before?" you say trying to start a conversation.
+
+Emma shakes her head.
+
+> You say "well you did good for a first timer" you put your arm around her waist.
+
+Emma blushes a deep pink, and looks down at her soft hands. She knots them in her lap.
+
+"Thank you," she says softly.
+
+You put your arm around her waist again and watch the sun set over the trees.
+
+"I wish we could stay here," she says and snuggles into your side.
+
+You squeeze her and think about all the things you wish you could do with her.
+
+> You say "as do I"
+
+Emma turns to you and gently kisses you on the lips.
+
+She puts her arm around your shoulder.
+
+"Come on," she says "let's go back to the camp."
+
+You sigh and stand up. Her hand is in yours and she leans into you as you walk to your tent.
+
+"So what do you think of your new boyfriend?" asks David, our servant.
+
+Emma sits on her bed and smiles at you.
+
+"He's nice," she says.
+
+You sit next to her and put your arm around her waist.
+
+"Well I'm glad you approve," you smile and peck her on the lips.
+
+"I love you," you say.
+
+She turns to face you and hugs you.
+
+"I love you too," she says.
+
+She kisses you on the cheek and gets up to change.
+
+"David, you're dismissed for right now."
+
+"Yes, my princess," says David.
+
+Emma slips into a blue dress and sits on your lap.
+
+"So what do you think of me in this dress?" she says, teasingly.
+
+"I think you're incredibly beautiful in it," you say, "you are in anything."
+
+Emma smiles and kisses you. Your hands slip under her dress and you begin to explore her body. Emma begins to slowly take her dress off.
+
+"Did you want to have sex now?" she asks.
+
+> You say "If you do."
+
+Emma smiles and nods, she takes her clothes off until she is fully naked standing in front of you.
+
+You lift her up and gently lay her down on the bed.
+
+She's smiling broadly.
+
+You start to take your clothes off as well.
+
+"Come here," she says.
+
+You crawl towards her on the bed and kiss her passionately as your hands explore her body. She reaches down and pulls your member out and starts to stroke it gently.
+
+"You want me to put it in don't you?"
+
+She says as her head moves forward and her warm lips touch the side of your neck.
+
+> You say "Yes."
+
+Emma slowly lowers herself on to your cock and you thrust your hips up to meet her.
+
+"Oh yes," she gasps.
+
+You start thrusting in and out of her as she runs her hands through your hair. You both moan in ecstasy as the rhythm of your hips intensifies.
+
+"I love you," she pants.
+
+> You say panting "and I you."
+
+Emma wraps her legs around you as she rides you harder. Your lips move towards her neck as you both reach your climax.
+
+"Ah!" she gasps, "I'm going to."
+
+Your hands grip her sides as you thrust your hips upward. Your bodies relax as you both enjoy the afterglow.
+
+Emma lays her head on your chest.
+
+"I love you," she says.
+
+> You kiss the top of her head and say "I love you too."
+
+Emma raises her head and smiles at you.
+
+"So what do you want to do now?" she asks.
+
+"What do you mean?"
+
+"I mean, what would make you happy?"
+
+> You ask "have you ever tried oral?"
+
+Emma laughs, "You want to give me head?"
+
+> You shrug and say "If you want to try it."
+
+"Well alright then," she says.
+
+Emma lays on her back and looks up at you expectantly.
+
+You slowly put your head near her crotch and take in a deep breath.
+
+"Do it," she says, "Open your mouth."
+
+You slowly move your head closer to her. You can smell her arousal and it's making you feel dizzy.
+
+"Now use your tongue!"
+
+You lick her outer labia and slowly move your tongue into her pussy. You try to make your movements as fast as possible to maximize your exposure to her sexual fluids.
+
+"Yes... like that," she sighs.
+
+Emma grabs your head and pushes it into her pussy, hard.
+
+"God, I love the way you kiss," she pants.
+
+You continue this for a few minutes until she suddenly says,
+
+"I want to sit on your face."
+
+"What?" you say.
+
+"Come on, lay down,"
+
+> You do as she says.
+
+Emma climbs on top of your stomach and lowers herself onto your face. You open your mouth and she slowly places her slit on your mouth.
+
+"Suck it," she orders.
+
+> You nod and oblige.
+
+You lick all around her slit and suck on her outer lips.
+
+"Oh yes... just like that," she gasps.
+
+Emma grinds herself against your mouth as she places her hands on your head.
+
+"Fuck my cunt with your face," she commands.
+
+You push your tongue into her as you use your hands to move her ass cheeks apart.
+
+"I want to feel your tongue in my ass," she says.
+
+You oblige as you push your tongue into her ass.
+
+"Oh yes," she sighs, "Do that again."
+
+You oblige as you push your tongue into her ass.
+
+"Yes, eat my ass. Oh shit. Keep going."You continue to eat her ass as she starts grinding her pussy into your face.
+
+"Oh yes... I'm going to... shit," she whimpers, "I'm going to do something too."
+
+Emma begins rubbing her clit with her middle finger.
+
+"I'm going to come... just fucking eat my ass."
+
+Emma starts screaming as she cums.
+
+"Oh fuck yes!"
+
+you think to yourself "thank the gods there is magical sound dampening on all of the command tents" and continue eating her ass as she cums.
+
+"Oh shit... that was seriously fucking amazing," she sighs.
+
+Emma slowly gets off of you and sits down on a chair.
+
+She turns to you, smiles, and says "Your turn"
+
+> You ask "What do you mean"
+
+"I'm going to blow you" she says smiling.
+
+"You want to do that?" you ask.
+
+"Well why not? I just creampied your mouth. I think it's only fair that I get to enjoy the same," she says.
+
+> You say "Absolutely"
+
+Emma approaches you and puts her hands on your naked chest and shoves you down onto the bed. She lowers her head to your crotch.
+
+"I want that dick!"
+
+She begins to slowly suck on the head of your dick as she continues to grind into you.
+
+"Ahh... yes... just like that..." you moan.
+
+Emma continues to suck and lick your dick as you shove it into her mouth. You grab the back of her head as you push deeper into her throat.
+
+> You guide her of the bed and onto the floor. You have her kneel while you stand in front of her.
+
+"I want to see your tits while you suck me,"
+
+Emma stands up and turns around.
+
+"Give me that dick," she says, smiling.
+
+Emma sits down and continues to slowly suck you as her large tits press into your groin. You grab them and start to squeeze and pull on her nipples.
+
+"Your tits are awesome," you pant.
+
+You place your hands on her shoulders and start to guide her as she sucks you off. Soon, you have her completely on the floor.
+
+"On your knees," you say.
+
+"Come on, do it," she moans.
+
+You grab her hair and force her head into your dick.
+
+Emma continues to suck as you roughly finger her pussy. You begin to rub her clit as she grabs your ass and begins to push your dick further into her throat.
+
+"Ah... fuck. I'm going to..." you moan.
+
+You thrust your dick into her throat again as you hold her head in place. You fill her throat with your hot, thick load.
+
+"Shit..." you pant, leaning back.
+
+Emma pulls your dick out of her mouth as you collapse back onto the bed smiling.
+
+Emma crawls on top of you and kisses you deeply.
+
+"How did that feel?" she smiles.
+
+"It felt amazing."
+
+Emma places her head on your chest and says "Perfect."
+
+> You fall asleep.
+
+Emma cuddles up to you and says "Thank you."
+
+You drift off to sleep. 
+
+You wake up to the feeling of warm soft skin pressing onto yours. You look down and see Emma cuddling with you.
+
+"Hey," she says.
+
+You smile as you cup her cheek and kiss her.
+
+"Hey" you say.
+
+"Do you want to..." she asks, trailing off.
+
+You nod eagerly.
+
+"Of course," you say.
+
+Emma smiles and hops out of bed."I'll get the map," she says.
+
+Emma goes over to the chest and pulls out a large, folded map, and returns to bed. You spread open the map and begin to examine it.
+
+"This is great! We'll actually be able to do some scouting and attack points easily," you say.
+
+Emma hops back into bed as you look at the map.
+
+"We should leave early to avoid the worst of the heat, but we should get back before it gets too dark," she says.
+
+You nod as she leans into you and kisses you.
+
+You both get dressed and start packing for your journey.
+
+"Don't forget to pack your nightclothes" you say.
+
+"I quite like sleeping naked, but that's a good idea," she says.
+
+You smile.
+
+"Will you stay naked while we're out there?" you ask, jokingly.
+
+Emma throws a pillow at you and laughs.
+
+"I'll bring your armor and weapons later."
+
+"Perfect," she says.
+
+Emma goes over to the chest and pulls out a red silk dress and holds it in front of her.
+
+"Do you like this dress?" she asks.
+
+"I love it," you say.
+
+Emma smiles as she slips it on.
+
+"We have to go soon, or else we'll be late,"
+
+"I'll meet you at the edge of the camp with the men, I have to get your armor" you say 
+
+"Perfect," she says, kissing you goodbye then leaving the tent.
+
+You set off for the armor storage tent
+
+You collect Emma's armor and weapons and meet her at the egdge of the woods with them.
+
+"There they are," you say handing them to her.
+
+"Thank you," she says, kissing you on the cheek.
+
+You soldiers wolf whistle at you two.
+
+"Are you two a couple?" one asks.
+
+"Yes, we at engaged to be married upon the completion of this quest." you say.
+
+"Nice, you landed a princess!" another says.
+
+Emma punches him in the shoulder and grins.
+
+"Let's go, we need to get this done quickly."
+
+"Yes, my lady," the soldier says, straightening his armor.
+
+You and the rest of the soldiers begin to march towards the orc kingdom. After an hour you begin to notice something is wrong. You hear a roaring sound in the distance.
+
+> You turn to Emma and ask "what is that"
+
+"Look," Emma says. "Its a dragon!"
+
+You see the outline of a dragon in the sky, with a rider sitting on it.
+
+> You say "do you think it's on the light or the dark side?"
+
+"I don't know, but it probably doesn't matter."
+
+Emma grabs your arm and pulls you away from the group.
+
+"What's wrong?" you ask.
+
+"I've seen that dragon before," she says. "We used to fight them when I was a kid."
+
+"You sure it's the same one?"
+
+"Yes, that one. It was named Teckleville.
+
+> You say "and the rider?"
+
+"I don't know, but it's probably the same one."
+
+Emma looks up at the dragon, which starts to flap its wings to slow its descent.
+
+> You shout to the men "Be on guard!"
+
+You turn your horse and hold your sword. You ride around the formation of soldiers, who look terrified at the dragon. The dragon touches down in front of your army, but its rider is still able to control it.
+
+The rider is a behemoth of a man, clad in chainmail armor. His sword is a double-sided greatsword, and on each side of the blade is a minature axe.
+
+> You say "Hello sir, can we help you?"
+
+He starts laughing, a horrible, grating noise.
+
+"You have such a beautiful kingdom," he says. "I wish I could take some of it with me."
+
+> You throw some dirt at him and say "Here you go!"
+
+He throws some dirt back at you, and laughs.
+
+"I like you," he says. "You are new around here, aren't you?"
+
+"I am part of the royal army. We're trying to put down the orcs you'll have heard about."
+
+"Yes, I've been reading about those heretics. They're a disgusting lot. They think animals are better than humans. You can tell they are not fit to be called human, let alone worse than the demons that live in the far east."
+
+"You're a demon."
+
+"A small one, yes. I'm here to discuss an alliance."
+
+"An alliance?"
+
+"Yes. I have heard about your great kingdom.
+
+> You look at Emma to see her response to this.
+
+Emma looks at you, and her eyes dart back and forth between you and the demon.
+
+> You ask her quietly "What do you think?"
+
+She bites her lip nervously.
+
+"I don't know," she says. "This man has offered to help.
+
+> You say to the demon "We will here you out."
+
+"Great!" he smiles, and holds out a scroll of parchment. "I have written down a set of rules for our alliance. Before we begin, we must agree to these terms."
+
+You look at the parchment. The first rule states that you are not to attack each other until after the war is over. The second rule states that you must help each other win the war. The third rule states that you may not make any alterations to the scroll without it first being agreed to by both of you.
+
+"I have one question first," you say, "do you fight for evil or light?"
+
+"That is irrelevant," he says. "It's all about who is the strongest."
+
+"Then I don't agree to these terms. I can't ally with someone who doesn't know where their loyalties lay."
+
+"I'm sorry," he says, frowning. "But if I'm being honest, I'm with the dark. I'm from Moridor, after all."
+
+Emma sighs.
+
+"So you're a evil," she says sadly.
+
+"No, I just..."
+
+"That's a yes," you say.
+
+He frowns.
+
+> You say "We will not form an alliance with anyone actively trying to kill us."
+
+"Fine," he says, his frown turning into a grin. "I don't have to take this route to get to you. I can find my own way."
+
+> You say "Are you threatening us?"
+
+He smiles.
+
+"No, but I don't have to threaten you. I'd rather be allies with those who have the strength to help me."
+
+He turns, and begins to leave.
+
+"Oh," he says. "Just so you know, I've brought a larger demon army with me. If you oppose me, you'll need all the help you can get."
+
+He grins, and leaves you standing there.
+
+> You say to the soldiers "Let him leave."
+
+"What?" Captain Durrak asks, surprised. "He's a demon. He'll kill us all!"
+
+> You say "He doesn't meen us harm at the moment and we must stick to our goal."
+
+you and the soldiers start to march to the orc keep.
+
+As the sun starts to set over the trees you shout to the soldiers "We make camp here tonight, be ready to go at first light. We cannot delay long!"
+
+A few orcs and ogres move forward to take command of the camp. They drop to their knees and bow their heads to you. They are the generals of the orc and ogre forces.
+
+"What is your purpose here?" you ask them.
+
+"We have weighed the risk of this battle and we wish to surrender." the orc general says.
+
+"Very well, by the power of the royal army your lands are now ours. If you revolt we will put you down" you say.
+
+The orc's commander's eyes widen and he stares at his general who slowly nods in agreement.
+
+"go back to your homes," you say to the orcs and ogres.
+
+The two generals head off back to the orc camp.
+
+> You ask Emma what she thinks about the situation.
+
+Emma looks shocked as she hears the news.
+
+"They surrendered?" she asks.
+
+> You say "Yes they did, I was surprised as you!"
+
+You both start laughing.
+
+"I don't believe it!" she says.
+
+"Well it appears we don't have to storm their castle now," you reply.
+
+Emma stops laughing and smiles at you.
+
+"We can go home now." she says.
+
+You both go to the royal tent that has been set up for you. You both enter and the King smiles at you.
+
+"I'm glad you both could come." he says.
+
+You're both unsure how to reply.
+
+> You say "sire, I thought you were back at the palace!"
+
+"I was but I decided I should come help instead." he says "also I have the feeling there is something you two are not telling me."
+
+> You say "And what is that my lord?"
+
+He looks at you and says "you seem to be growing awfully close to my daughter."
+
+You look at Emma and she just stares back.
+
+"so what haven't you told me?" he says.
+
+"Well..."
+
+He raises his eyebrow and lets you know you better come up with an answer.
+
+"We..."
+
+The king grabs your shoulder and looks at you.
+
+"Spit it out!" he says.
+
+"We have decided to take you up on your offer" you say, "At the begining you told me I could have you daughters hand in mariage, and I told you I would only marry for love. Well..."
+
+The king laughs and hugs you.
+
+"If you have fallen in love with my daughter then you may have her, she will be yours."
+
+"Oh thank you! thank you!" you say.
+
+"But there is one thing that must be done." the king says. "You must kill General Ackerson at the head of the royal army."
+
+"What? Why?"
+
+"I know you have respect for the military and for those that serve it. But I have just found out Ackerson is a spy for the forces of evil."
+
+"But how do you know? I have always found general Ackerson to be a man of honor."
+
+"I know, but I just know. He was trying to convince me into letting the demons out of their cage. I wouldn't do it."
+
+You look at Emma. She looks as if she wants to say something, but instead she just nods.
+
+"I will see to it personally that he is put down" you say.
+
+"Thank you thank you!" the king says.
+
+> You say "It is nearly dark, we will start the long journey back to the palace at break of day."
+
+The King agrees and tells you both to get some sleep, he says he will ride back immediately. You both head to your tent.
+
+You look at Emma as she enters her your tent.
+
+"We will be married." you say.
+
+"I knew we would." she says.
+
+"Come on," you say leading her to the tent "let's get some rest"
+
+The next morning you both get on your horses and ride towards the palace. The royal army follows along behind you.
+
+ You ride for nine days straight and arrive at the palace. You enter the palace and are met by the King, who takes one look at you and hugs you.
+
+"Oh my dear boy you're back! I was so worried I would lose my son in marriage!" he says.
+
+You laugh and shake the king's hand. Emma hugs him.
+
+"I'm glad to see you too father." she says.
+
+he turns to you and says "Alaric, before your wedding you must carry out you mission."
+
+"Of course." you say.
+
+You set off to find and kill Ackerson. You find him in the market. you quietly walk up behind him and shove your dagger into his back.
+
+"Traitor!" you say.
+
+he looks at you with hatred and disgust then doesn't move again.
+
+You look around and see if any of the towns people are paying attention, but the market is empty. You pull the knife out of his back and clean it then put it back in your belt.
+
+You go to the palace to tell the king the news.
+
+"So uh," you say "General Ackerson is dead. I killed him."
+
+"Good," the King says. "Now you may marry my daughter."
+
+You are to be married the next day. The King hosts a large feast in your honor. During the feast the King calls you to him.
+
+"I have good news and bad news for you." he says.
+
+"Well, give me the good first." you say.
+
+"The war with Kense has been won."
+
+"Oh, good!" you reply.
+
+"However, the treaty we ended up signing was a very disadvantageous to us. In exchange for us not attacking them, they will be allowing several of our towns to become military outposts and will be granting their own land to aaccommodate new villages."
+
+"What does this have to do with us?"
+
+"Due to the large size of our military, we will be having to allow several quartering for soldiers in our towns."
+
+"What does this mean?"
+
+"While this won't affect you personally, many of the towns folks will be moving into your manor.
+
+> You say "Were am I to live then?"
+
+"Well, I was hoping you might move in with us." the king says.
+
+
+
+> You say "Really?"
+
+"Well, why don't you? You can easily get to your lands from ours."
+
+"That's a terrific idea!" Emma says. "It would give us protection."
+
+"I suppose it would." you reply.
+
+The King and the queen exchange a glance, they don't seem to be sure if you'll agree.
+
+"Well, I suppose I have nowhere else to go."
+
+"Excellent!" the king says. "I'll have soldiers move your belongings to the palace."
+
+You thank them and leave the table. In the hallway you run into Jennifer, who smiles at you.
+
+"Hello. Everything go well with the wedding preparations?" she says.
+
+"Better than I could have hoped for." you reply.
+
+"Good, good." Jennifer says, before stopping and looking at something behind you. "Oh, there's my daughter. I have to talk to her about the state of the city."
+
+"Of course."
+
+At the end of the feast Emma comes to your room. She is in a happier mood than usual.
+
+"Hey, you're back! I was just coming to find you."
+
+"Really? What for?"
+
+Emma sits on the bed beside you.
+
+"I wanted to ask you something."
+
+"Okay..."
+
+Emma looks down and fiddles with her engagement ring.
+
+"I was just wondering if... you would consider moving into the palace with me and the King and Queen?"
+
+> You say "Would we have our own or separate rooms?"
+
+"We'd have the same room."
+
+"Alright then, I'll stay."
+
+Emma smiles and kisses you. "Thanks love."
+
+"Of course." you smile back.
+
+You spend the night in the room with Emma before your wedding the next day. You have several thousand people in the grandest city in the realm attending your wedding. You walk down the steps to marry the woman you love.
+
+You look at her again, she's so beautiful. She's wearing a long white dress, and you've never seen her looking more elegant. You're wearing an ornate ceremonial suit of armor.  The ceremony is short and sweet, and soon the two of you are married.
+
+The wedding party heads to a large feast in the palace where you enjoy lobster and steak. At some point during the feast a string quartet begins to play. King Ferdinand claps his hands and the room falls silent.
+
+"Many congratulations!" he says. "To my daughter and he new husband. May your future be blessed with many children and many more happy years together. Long may you reign!" he raises his goblet. the whole gathering does the same.
+
+You smile at your wife and kiss her on the cheek."To the future!"
+
+The two of you clink goblets.
+
+you and Emma take your leave of the feast and head to your room. The wedding night is finally here.
+
+"Well, this is it. No turning back now." you say.
+
+Emma smiles. "I know. I'm just nervous."
+
+"About what?"
+
+Emma bites her lip nervously. "I'm a bit scared that..."
+
+You raise an eyebrow. "You're worried about the pain?"
+
+She nods slowly.
+
+You give her a hug. She puts her head against your chest. You kiss her on the top of her head. "It's going to be alright. I'll be with you the whole time."
+
+Emma takes a deep breath. "Okay..."
+
+You look into her eyes and give her one last kiss. Then lead her over to the bed.
+
+You help her onto the bed and stand over her. She's looking up at you smiling.
+
+"I... I trust you."
+
+You nod. "I love you."
+
+You take the string tying her dress onto her and pull it away. The wedding dress falls to the ground.
+
+"Do you..." your wife begins to say. Then closes her mouth. She looks away, blushing more than you've ever seen her do. The rest of her is just as red.
+
+You help her out of her dress and then her underwear. You toss both of them aside.
+
+"Do I what?" you ask gently.  "What's wrong?"
+
+She bites her lips. "It's... sort of embarrassing."
+
+"Emma, you can tell me anything. Really."
+
+"Promise you'll never laugh at me?" she asks, her voice quivering.
+
+"I promise."
+
+"I... I was nervous about our first time... I... I was scared that I wouldn't be pleasing to you."
+
+Your heart misses a beat. "What...?"
+
+"You're the love of my life Emma. You always will be. Nothing can change that. As long as my heart is still beating, I'll love you with every beat."
+
+"You..." she looks at you, her eyes brimming with tears. "You're... perfect. And you're everything I could've ever wanted in a husband. I'm so sorry I... I didn't mean..."
+
+You wrap your arms around her. "It's okay. You're nervous. It's okay. Take your time."
+
+She breathes out slowly. Then breathes in. Then sighs. Then exhales. Then nods slowly. "Okay." She sniffles and wipes her eyes, smiling. "It's just... our first time together was so... incredible. I loved everything about it. The time we spent, the emotions, the intimacy. Everything. But I wanted to make that experience even more special. I wanted you to experience the joy that I experienced. That first time, we hardly needed protection. There were so many emotions going through me during and after the act. And afterwards, I felt so much joy. I loved every second of it."
+
+She crawls over to you slowly and gives you a kiss. "I want us to feel that way again. This time, for the entire night. I want you to experience pleasure unlike anything you could've ever felt. I want to feel your skin under mine. I want to touch every part of you. Please, I just... I need you like this. All of you, inside me. Please, I want us to feel amazing. Can you do that for me?"
+
+You nod slowly and kiss her back. Of course, you can. Anything for her.
+
+"Good." She smiles and scurries back to the edge of the bed. She looks back at you, biting her lip. "Take your clothes off."
+
+"I... I want to try something." Her voice is barely above a whisper. "I don't want you to feel embarrassed."
+
+"Oh?" You slowly strip off your clothes while you lock the door, just in case.
+
+She crawls over to you, breath heaving. "I want to tie you down." she says.
+
+"You do?" You reply in surprise.
+
+"Yes. I want to tie you down and... I want to do things to you. Things I've seen in books." She swallows nervously. "Things I've imagined."
+
+You frown and look at her nervously. "Emma..."
+
+"Please!" she begs.
+
+> You say "Alright"
+
+"Alright," you say.
+
+Emma smiles. "Great!" She hops off the bed and goes over to the closet. After a few minutes of rummaging around in the closet, she pulls out several pieces of what you presume are bondage straps and a short, velvet rope.
+
+"I want to talk to you about something before we start." she says.
+
+"What?" you ask nervously.
+
+"Do you... want to be tied up?"
+
+You nod slowly. "I want to give you pleasure. Please, if you're comfortable with it, tie me up."
+
+Emma bites her lip nervously. She looks around, as if someone may be able to hear you. Then, she leans in close.
+
+"I want to blindfold you." she whispers.
+
+"Okay" you say.
+
+"I want to blindfold you and... I want to touch every part of your body that I can reach." She takes a deep breath.
+
+You nod."Alright."
+
+Emma goes over to the bed and pushes all of your clothes and blankets to one side. "Stay like that." she says. "I need to prepare everything."
+
+She makes a few more preparations, then turns to you. "Kneel down."
+
+You nod slowly, and do as she says.
+
+"Make fists of your hands." she says, as if repeating a mantra.
+
+You oblige her.
+
+"Perfect." She smiles. "Now, I'm going to put this over your head so that you can't see anything. Just keep focusing on the pain in your hands, alright?"
+
+You nod.
+
+Emma takes the velvet rope and wraps it around your head a few times, then ties the ends together. She steps back nervously. "Is... is it too tight?"
+
+You shake your head. "It's fine."
+
+"Alright, I'm going to do the rest now," she says nervously.
+
+She guides you up and grabs you rists. She binds them with a length of rope and ties them to the ceiling. "Is that okay?"
+
+You nod slowly.
+
+Emma goes to the draw and pulls out a few more things. She puts lotion on her hands and begins to touch you slowly. She begins to kiss along your neck and begins to unbutton your shirt. She slides her hand down your stomach and begins to touch you intimately.
+
+"Oh... you're so hard!" she says, touching you. "I need to get you ready."
+
+She takes the lotion again and begins to coat your shaft with it. She giggles.
+
+"I need to apologize in advance."
+
+"What?" you ask nervously.
+
+She looks at you nervously and says,
+
+"This might hurt a little."
+
+She begins to take the panties off and as soon as she does, you begin to thrust slightly into her hands. She blushes and says,
+
+"Get ready."
+
+You thrust into her hands as she begins to touch you. She rubs the lotion all over you and begins to moan.
+
+"Oh... this feels good..." she says as she begins to touch you.
+
+She puts her mouth on your shaft as you thrust into her hands. She moans into your ears as she begins to suck you.
+
+"Ah! Oh, fuck!" you moan. You thrust into her mouth a couple more times before you finish, filling her throat with sticky white goo.
+
+Emma swallows, and licks the tip of your dick slowly before standing up.She removes the blindfold. She begins to take her clothes off. You can't take your eyes off her perfect body. She unties you and takes you hand and guides you to the bed.
+
+"Would you like to swap places?" she asks.
+
+"Uh... I don't know," you reply.
+
+"Do you want to tie me down?" she asks.
+
+"What?"
+
+"I'd like to try something new. Do you want to tie me down?"
+
+You think about it for a second. "I don't know."
+
+"Well, think about it while I get prepared.
+
+You think about how you'd like to tie her down and other things.
+
+Emma comes back over and says, "Alright. I'll guide you."
+
+She lies down on the bed.
+
+"Put your hands under my knees and pull me up. Make sure you're gentle, but firm. Also, make sure you're touching as much of my skin as possible."
+
+You nod and grab her knees.
+
+"Okay, lift me up. I'm ready."
+
+You lift her up and she wraps her legs around you. You look down and see your cock penetrating her pussy. She wraps her arms around your neck.
+
+"Ready?"
+
+"Ready."
+
+"Don't be gentle. I'm very ready."
+
+You begin to thrust into her as she pulls your hair. You push yourself all the way in and hold still.
+
+"That's good. Now, thrust."
+
+You begin to thrust into her as she pulls your hair. She pushes herself into you as she kissed you and runs her hands along your back.
+
+"That's it. That's it. Yes, yes!" she moans into your ear.
+
+You hold her tightly as you both reach your climax. She kisses the side of your face as you slowly stop thrusting. You both lay there panting as the excitement becomes an all new feeling of calmness.
+
+"That... was amazing," she says.
+
+"I agree."
+
+You hold her tightly as you drift off to sleep. You have a feeling of peace wash over you.
+
+"Sweet dreams, my love."
+
+You wake up in the morning to Emma lying naked beside you.
+
+"Hey there."
+
+She smiles and kisses you.
+
+"Morning."
+
+"So, what should we do today?"
+
+You look out the window and see that the city walls have been completely destroyed.
+
+> You say "Oh shit"
+
+"Oh shit!" you say.
+
+Emma looks at you.
+
+"What?"
+
+There is no time to explain. A huge cloud of smoke rises up from the city.
+
+> You say "look out the window!" and put on your armor.
+
+You stand up to get a better look. You put on your armor and walk over to the window. A few Kedeshians notice you and whisper among themselves.
+
+"What are you doing?" Emma asks.
+
+> You say "The city is under attack, we must find our king! Put on your armor we have to hurry!"
+
+Emma hastily puts on her chainmail and rushes to the door. You hold it open for her as she runs by. A guard stops you.
+
+"Where do you think you're going?" the guard asks.
+
+> You say "what do you think? the city is under attack we must find our king!"
+
+The guard looks at you and realizes that you are right.
+
+"Go! Go!" he says as he points to the door to the armory. You and Emma quickly run across the hall and into the armory. Inside you find the king, the queen and a small counsel.
+
+The king stands by a pile of armor with his back towards you.
+
+"My lord" you say to announce your arrival.
+
+The king turns around and sees you both. His face is grim. He runs his hand through his hair in a nervous habit.
+
+"My friends, we're under attack. The city is burning, and the gates have been compromised." he says.
+
+> You say "We saw, what are we to do?"
+
+"We? There is nothing we can do." he says.
+
+"Yes, there is. We must defend the palace!" you say.
+
+He looks at you and sighs. He begins to put on his armor as the rest of you follow suit.
+
+> You say "Emma stay here with the queen keep her safe"
+
+Upon hearing this the king stops.
+
+"Emma is coming with us."
+
+He turns and begins running to the armory entrance.
+
+> You say "My lord?"
+
+He turns around.
+
+"My friend, we have no more time for this, Emma is coming." he says.
+
+Backing up, you see that the army of Kedeshians are within shouting distance of the palace gates. They've already overwhelmed the few guards still trying to keep them out and the main gate is within sight.
+
+"My friends, prince Alaric is right. We must defend the palace. After that, I don't know."
+
+The counsel begins to argue but the king puts up his hand.
+
+"No, I will decide when we will fight and how. But right now, we must do what we can for survival."
+
+The king turns to you.
+
+"You and the princess are defending the queen, I can't think of anyone better to protect her than you two, but we're going to be fighting Kedar. We need all the warriors we can get."
+
+> You look to Emma for her input.
+
+She looks up at you.
+
+"Emma?" you ask.
+
+"We don't have much of a choice do we?" she asks.
+
+After a brief moment of silence she continues.
+
+"Alright, we'll defend the Queen, you take the best warriors we have to help you."
+
+The king nods in approval.
+
+"I knew you would."
+
+As you are finishing putting on your armor, the army of Kedeshians reaches the palace gates. They are fierce warriors and they make no pretense about it.
+
+The king walks out of the palace to address the advancing army.
+
+"I see you have come for the city, but know that you will not take it. This is my city, and I will give my life before I will ever allow you to step foot in it."
+
+The Kedeshian general walks up to the king. He is a large warrior, and he carries a large sword on his back.
+
+"You are a brave man, but this is no game. I will take your city and you can help or hinder me on that task, but you will not stop me."
+
+The king smiles.
+
+"I would not dream of trying."
+
+The general walks up and cuts the king's throat. He falls to the ground, bleeding out and breathing his last.
+
+Emma sobs and buries her face in your chest. You wrap your arms around her as best you can and try to comfort her. The Kedeshians storm the gates.
+
+you lock the doors to the armory and brace them with everything you can.
+
+You turn to the queen who is white faced and say grimly "It apears you are our ruler now."
+
+You take her hand and help her to her feet.
+
+You go back to the armory and begin grabbing up all the weapons you can find.
+
+"What are you doing?" the queen asks.
+
+> You say "We need to arm ourselves, there will be time for grieving later." you walk up to Emma who is curled up into a ball crying.
+
+Emma slowly turns towards you and wipes her face.
+
+"We need to arm ourselves, what choice do we have?"
+
+Emma grabs a sword from the rack and sits up.
+
+The queen stands beside you, staring at the weapons. She grabs one of the long spears from the rack and begins fiddling with it.
+
+> You say "Emma you take the right side of the door, my lady you the left. I'll take the center. If anything comes through kill it!"
+
+The three of you take up strategic positions around the door. You turn to the queen.
+
+"What's next?" you ask.
+
+"I assume we wait for a fight." she says simply.
+
+You nod and take a deep breath.
+
+When the first hordes of demons, giants, and worse begin pouring into the city streets. You draw your blade and go to the center of the door.
+
+> You say "It may be a wile before we can leave."
+
+"It may be a wile before we can leave." the queen remarks.
+
+The three of you are silent in contemplation of the situation.
+
+Suddenly a scream arises from the right side of the door.
+
+"SHIT!" you shout and run to the door with your sword drawn.
+
+Emma stands there holding the bloody body of a soldier, she seems terrified.
+
+> You say "bring him in!"
+
+Emma nods drags the soldier inside. You reseal the doors.
+
+"We are going to be slaughtered." the queen says.
+
+You say to her "Not if I have anything to say about it! I will not let Emma or you die my lady!"
+
+The center door opens, 3 demons run in. You swing your sword and behead 1 of them. One charges you and the other the queen. she tries to stab the demon but it runs her through right as you kill the other one.
+
+"NO!" Emma shouts as she runs to the dying queen.
+
+You seal the whole in the door and join her.
+
+"Emma." you say
+
+She looks up and begins to sob.
+
+"I froze." she says miserably.  "I was so afraid and I froze. It was all I could do to just stand there..."
+
+"It wasn't your fault." you say.
+
+"It was! It was all my fault!"
+
+> You say "there's nothing you could have done."
+
+Emma shakes her head and says "But it was my fault. If I hadn't froze, the queen would still be alive."
+
+She begins to sob again.
+
+"We are dead. Everything is dead. We've lost the war. I've lost the king and the queen. I'm..."
+
+Her voice cracks and she can't go on.
+
+> You say "We must find a way out of here, we can collect there bodies so we can give them a proper burial."
+
+Emma nods and says "Yes. We will do that."
+
+You nod back and look around. You see a door to your right and you remember that it goes outside.
+
+> You pick up the dead queen and king and head for the door.
+
+You pick up the corpses and head outside. You see a dragon flying over the city as it lets out a roar of anger. It destroys some of the already damaged buildings in the city.
+
+Emma looks at it and slowly backs away.
+
+"Emma come on." you say while walking towards the door.
+
+"No, no, no, no, no!" she says backing away.
+
+> You grab her hand and run into the woods outside the kingdom.
+
+The pair of you run out of sight in the direction of the woods.
+
+You run into a group of your knights. they cheer as they so you coming but stop suddenly as they see the bodies you are carrying.
+
+"Oh shit!" one says.
+
+"What happened?" one asks.
+
+You explain what happened. They all begin to argue with each other.
+
+"We need to go find the princess, but it's not really our fight." one says.
+
+> You gesture towards Emma and say "this is the princess"
+
+You point to Emma and tell them that is the princess. They all seem unconvinced.
+
+"Well we need to get her back. We can't have a she-barbarian running around taking the place of our ruler." one says
+
+> You say "How dare you! "
+
+You shake your head at them and tell them to stop talking, you tell them that if they do not stop they will be punished. You find that this is a very effective way of getting them to leave you alone.
+
+> You convince them of your royal status.
+
+"I am sir Alaric Hayward and this is my wife Princess Emma. Now if you don't show us some respect you will be discharged!" You say to the knights.
+
+They all look at each other and one says "very well sir, but we have orders to stay here until we are relieved."
+
+> You say "we need your help, the city and the palace have been destroyed. We have nowhere to go."
+
+A knight says "I know of an old fortress about a days ride away were we may take refuge"
+
+> You look to Emma "what do you think?" You say.
+
+She looks frightened and is clutching your hand.
+
+"We need to get there quickly." She says looking up at you.
+
+You nod and the group begins to ride off.
+
+The fortress is large and overgrown. The doors are large and sturdy and above them is a walkway so people can look down into the courtyard.
+
+As you reach the fortress you see that it has been abandoned for a very long time. The stairs up to the door are gone and the door itself is broken. You, your knights and your horses walk into the large open courtyard.
+
+There are faint signs of life within the fortress, but nothing you can see. You all ride to the stables and unsaddle your horses and leave them with some stale food before entering the fortress.
+
+Are there any female knights with Alaric and Emma?
+
+You see three, the first is Brenda, a middle-aged woman with a stern face. She has blonde hair in a bun and always wears platemail armor like your other knights.
+
+The second is Alison, a plump older woman with short curly hair. She always wears a regular dress.
+
+The final one is Cecilia, a pretty young girl of 20 with long curly hair who wears regular platemail armor.
+
+> You ask Emma if she thinks this fortress will work.
+
+Emma looks around the room nervously and clutches your hand. "I don't know" She says.
+
+You think for a moment and decide your options.
+
+You have three choices.
+
+First, you can stay here and await the arrival of the sorcerer from the south. You know he will no doubt attack in some way. You can try to fight him, but you will probably lose.
+
+Second, you can ride ahead to the ruins of the city that the sorcerer was rebuilding. You know this place as "Emperor's Rest". You've heard that it was once called "Mons Letalis", the resting place of the Emperor. This used to be the city of Lethes, but it is now a ruined husk. The Emperor's Rest was once a magnificent palace, but has suffered severe decay and is now little more than a tourist attraction.
+
+Finally, you can ride to the city of Alethes.
+
+> You purpose these options to Emma.
+
+"We have three options" You explain, showing her the choices on your fingers.
+
+She thinks for a moment, showing her own three. "I think we should stay here, and fight Kedar when he comes. It will be very dangerous, but we can probably best him."
+
+You frown. "I don't like the idea of waiting here. There's no way to know when he'll arrive, or if he'll come at all."
+
+She shakes her head. "We have no other options. I know it doesn't seem very fun, but it's the best idea."
+
+"What about riding to Alethes?" you say. "It's the next best thing to a hop, skip and a jump away. If we get through this, we can make a brand new home there."
+
+"Yes, please!" she says with a smile. "I would love to ride to Alethes!"
+
+She plays with the ring on her finger as she thinks for a moment. "What about Brenda, David and Cecilia? They won't be able to come with us."
+
+You nod. "Yes, I think so. They've served loyally and are good warriors."
+
+"OK then. Let's go get them, shall we?" she says with a smile.
+
+"Yes, let's."
+
+You grab your sword from the wall and walk out of the fortress. You find most of the rest of the soldiers in the fortress have already made their way to the stables. You and your small company are quickly followed by a stable-boy who leads your horses outside.
+
+You walk outside, taking a deep breath of fresh air. The sun has begun to rise and bathes the world in a rich orange color.
+
+> You say "We must be off." and mount the horse.
+
+"Go," you say to the servant holding your horse, as you get on.
+
+He leads the horse out, and you and Emma sit on the horse, as it begins to walk forward towards the city.
+
+"How come you're so calm?" Emma asks. "I would think that you'd be more upset by our home being destroyed."
+
+You shrug. "We'll find another home."
+
+Emma blinks, then smiles. "Well, let's go get the rest of the crew and make our new home in the forests of Alethes."
+
+"Yes," you say. "Let's go."
+
+You spur the horse into a canter towards the city. "We'll make a new home there."
+
+Your new life in the forests of Alethes begins.
+
+> You find a good spot to build a cabin.
+
+You find a nice clearing in the woods, with a few trees that can be felled to build a cabin. You lead the way, felling trees, and your friends help carry them. It takes nearly a week to cut down enough trees to begin building the cabin.
+
+You work quickly to finish the cabin, and you and your crew spend the next few days fixing it up as best you can. You're all pretty happy with the work you've done so far.
+
+Finally, you have a cabin large enough to protect you from the cold and wind at least, so you feel comfortable enough living in it.
+
+You set out traps and snares in the surrounding area, and begin living off the land as much as possible. You have determined that the forest is, by and large, a bountiful place. There is meat and nuts and fruit everywhere, and you rarely need to go very far to find something to eat.
+
+A couple of weeks latter you come to the cabin and see Emma tending a fire. You watch her for a moment, feeling something stirring within you. She looks up and catches you watching her.
+
+She blushes and smiles at you, walking over towards you. "Hello," she says.
+
+"Hello," you reply. "How are you doing? Are you OK?"
+
+"Yes, of course," she says. "Just tending the fire."
+
+You nod and look her up and down, your eyes admiring her figure.
+
+"How are you doing?" she asks. "You seem a little tired."
+
+"I'm OK," you say. "Just a little tired. "I've brought dinner" you say and put down the deer you were carrying.
+
+Emma sets down her bow and walks towards you. "Thanks," she says, taking the deer from of your hands and looking at it. She sets the deer down on the ground, then looks at you. "So, what's the plan?"
+
+"Well we've finished construction on cabins for our whole company so now we don't really have a goal other than survive."
+
+Emma nods. "That's true. So... whatcha feelin'?"
+
+You pause, and consider how to answer. "I'm feeling hungry," you finally reply and start getting the deer ready to cook.
+
+Emma smiles and crouches by the fire. "I'm feeling hungry too," she says. "Can I have some of that deer?"
+
+> You say "Of course, I brought it for both of us"
+
+Emma smiles and quickly cuts up the deer meat, handing a small pile of it to you. "Here," she says.
+
+You smile and feed her some of your food. "Thank you," she says. "You're very welcome."
+
+Emma leans in and kisses you, a warm, delicate kiss. You embrace the feeling of her lips for a moment before she pulls away. "Come on," she says. "Let's cook this deer meat."
+
+You start to laugh, as she grabs the deer flesh and heads over towards the fire. You smile, grabbing some venison and following her over to the fire.
+
+You watch her as she cooks. She seems so at home here, like she's been doing it all her life. You continue looking over your wife, as you lean down to kiss her on the head.
+
+Her hair smells of the forest, and her eyes are bright and clear. She looks up at you, smiling.
+
+She is happy here. You are happy here. Life is good.
+
+after you eat the deer you bring her to bed. You undress her slowly, your hands lingering on the sides of her body as you take off each piece of clothing. You kiss and caress every inch of her, your lips exploring every inch of her skin. The whole time, your eyes never leave her face.
+
+Finally, she is only clothed in her underwear and socks. You pull off her socks, and then massage her feet. She sighs contently and leans back.
+
+> You ask "Do you want to try for..."
+
+"Yes," she replies eagerly. "I want to try for a baby."
+
+You nod. "Alright."
+
+Since you are both in agreement, your hands start to roam, as they always seem to do. This is a crucial moment in the intimacy of your relationship.
+
+Emma's warm, soft body is all yours. You caress and grope her all over, as your hands slip under her panties. She moans in your ear as you stroke her mound, before grabbing a pillow and sitting on the bed.
+
+Emma crawls onto the bed and into your lap, straddling you. As your hands explore her body, she grabs your cock and guides it into her. You groan in pleasure, as you thrust into her.
+
+You look up at your wife as you thrust in and out of her, the two of you enjoying each other. Her long hair covers her shoulders as she looks down, biting her lip nervously. Her eyes meet yours and you smile at her.
+
+Emma wraps her arms around your neck as she rocks her body back and forth, riding you. You stare into her bright green eyes, full of excitement and anticipation.
+
+Emma leans forward and kisses you deeply, as your hands grope her body. She slips her tongue into your mouth and Runs her tongue along your teeth, before You pull back and grin at Each Other.
+
+You both start to laugh, as you thrust in and out of her. The two of You enjoy the intimacy of the moment for quite some time, before you both reach your peak at the same time.
+
+You groan into her ear as you tense up, thrusting deep inside her as you release into her. You grin into her hair as you hold her tightly, your bodies twitching in unison..
+
+After some time, you put your head onto her shoulder and kiss her neck. "That was simply wonderful."
+
+"Yes, it was." She replies.
+
+You kiss her deeply before holding her close to you. You stare into her bright green eyes, smiling. "Beautiful..." You whisper.
+
+"You're telling me." She grins.
+
+You chuckle. "So, what are your plans now?"
+
+She smiles."Well, I guess we'll have to wait and see if it worked!"
+
+You nod. "I suppose so."
+
+After a pause, you grin. "Well, we'll know soon."
+
+She smiles back. "Yes..."
+
+You rub her back. "Well, I suppose we should get some sleep."
+
+She nods. "I suppose so."
+
+You lean in and kiss her deeply, holding her tightly.
+
+"Beautiful..."
+
+"Handsome..."
+
+She chuckles
+
+You lay your head against her shoulder. "I love you.
+
+She replies with a kiss to your hair.
+
+"And I love you."
+
+After a pause you whisper, "We should... sleep."
+
+She nods. "Yes... a sleep would be good."
+
+You hold her tightly and soon both of you are asleep.
+
+In the morning, you both awake to the feeling of her warm body next to you.
+
+You look over at her and she opens her eyes, smiling at you. "Good morning."
+
+You smile. "Morning."
+
+She giggles and twitches slightly, feeling you stiffen next to her. She giggles again before kissing you, smiling into your mouth.
+
+"We should probably dress." She says.
+
+You smile and kiss her again, before you both hear someone knocking on the door.
+
+You groan in unison.
+
+"Ignore it." You say, as she goes to open the door.
+
+You hear, "Your highness! We have a visitor!"
+
+She nods. "Of course, send them in."
+
+You hear, "I'm here to see the princess."
+
+You roll your eyes and look at your wife.
+
+"I'll deal with this." You say.
+
+She nods, and you walk over to the door, opening it. Outside stands a large man, about 6 and a half feet tall and tremendously muscular. His huge, thick muscles have visible veins and are shaking as he knocks on the door.
+
+"Hello." He grunts.
+
+"Uh, hello." You reply.
+
+"Are you the king?"
+
+"I am, are you Sir Kit?"
+
+"Yes, I'm here to lead you and everyone else into the fight against Moridor."
+
+You frown. "What fight? We're not fighting anyone."
+
+He frowns in return. "You're not serious?"
+
+"Yes, I'm quite serious. We're not fighting anyone."
+
+The big man seems to become angry at your words, but he remains silent and just keeps glaring at you.
+
+> You say "Look what we have built here. this small village is the result of hard work and I do not wish to leave it. I am no longer your king but the king of this village."
+
+You sigh and relax a little. Sir Kit's expression seems to soften. It looks like he's trying to decide whether or not to kill you or take you into custody. "You may be right. I apologize for implying that you would risk your life for a pointless battle. I'll make a note of it, but I doubt if the people will listen to me like you would."
+
+> You say "Tell them they can come here if they wish. tell them they will be safe here. make sure if they come they are ready to build their own cabin."
+
+He nods, writing it down before turning and walking off. You hear him giving similar orders to all the other guards outside, before walking back inside. You sigh and walk over to your wife.
+
+> You say "I have a feeling our village will be growing soon."
+
+She smiles at you. "You're right." She says. "We will need more resources."
+
+You pull her into your arms and kiss her. She grabs your ass and grinds herself into you, making you moan into her mouth.
+
+"We'll be alright."
+
+She looks into your eyes, biting her lip slightly. "I love you." She says.
+
+"And I you."
+
+She leans in and kisses you again, before breaking away to grab your hand. "I've just got news from the village physician..." she says smiling broadly. "We're going to have a baby."
+
+You smile and kiss her again, this time longer than before. Finally, you break away, feeling the need to sit down. "A baby."
+
+Emma smiles and nods. She gets into your lap and wraps her arms around you. It doesn't take long for you to feel a familiar stirring in your loins.
+
+"I thought so." You say.
+
+"You knew?" she asks, seeming slightly confused.
+
+"I'm a king. We can sense things like this."
+
+She smiles, biting her lip. "This changes everything."
+
+"Yes, it certainly does." You reply.
+
+You look at her for a long moment, before grabbing her and kissing her again. She grabs your ass and plants her feet to try and push you closer into her. You moan into her mouth and feel your crotch being massaged by the base of her tail.
+
+You break away from the kiss again. "I love you."
+
+Emma smiles and kisses you again. She then grabs your hand and laces your fingers with hers. You follow her as she leads you to the bedroom.
+
+You sit on the edge of the bed, still holding her hand. She stands in front of you and presses you back onto the bed.
+
+> You say "aren't we not supposed to do this anymore?"
+
+She giggles. "I'm sure you'll make an excellent father." She says, lying on top of you. She kisses you.
+
+"I want to please you. I want to make you happy."
+
+> You say "You have."
+
+She smiles and kisses you. "Then I want you to promise me something."
+
+You nod, waiting for her to ask what she wants.
+
+"I want you to stay with me. I want you to love me forever."
+
+Your heart is filled with joy and warmth. This is the perfect thing. This is what you wanted. You can't stop smiling. You push her off of you and get off the bed.
+
+"Of course, my love."
+
+You kneel in front of her and grab her hands. "I want you to know that no matter what happens, no matter how terrible, I will always love you. I will never stop being devoted to you. I'm going to do everything in my power to protect you." You pull her towards you and kiss her deeply, holding her tightly.
+
+She smiles against your lips and you feel a surge of warmth run through your body.
+
+You pull away and kiss her cheek, then her eye, then her temple. "I love you."
+
+"And I love you." She replies, kissing you back.
+
+You wrap your arms around her and hug her tightly, unable to express in words how much she means to you.
+
+You pick her up and spin her around causing her to laugh. "Put me down!"
+
+"Of course, my love."
+
+You gently lay her down on the bed and lean over her, kissing down her neck. She giggle and moans and you feel the hairs on the back of your neck stand up.
+
+You look up suddenly as the door is pushed open, and see a dark figure stand there. It's form is cloaked in shadow, it's face covered by a hood. The only thing you can see is a pair of glowing red eyes.
+
+You get between the cloaked figure and Emma. You draw your sword. "Who are you?" You demand.
+
+The figure doesn't move, or speak. It just watches you and you watch it eye the sword in your hand.
+
+Emma sits up and grips her sword, scooting back from the creature in the corner. She's frightened.
+
+> You say "What do you want?"
+
+The creature doesn't answer. It just continues to watch you with it's soulless red eyes.
+
+> You say "Answer me or I will run you through!"
+
+The creature makes no move. It's eyes flicker though you are convinced you saw something there. Something that may have been a trace of emotion.
+
+> You say "NOW!"
+
+"I'm here to help you." The creature finally speak, nearly causing you to jump out of your skin. You feel cold air flow past you, blowing from the open window.
+
+"With what?" you ask still pointing your sword at it.
+
+"I'm going to help your soul move to the next life!" it says
+
+Emma throws a lit candle at the creature. as it touches the creature he erupts into flames making a horrible screeching sound. His body vanishes leaving you shaken.
+
+You stand up and hold your sword out in front of you.
+
+You put it down and sit next to Emma on the bed.
+
+"Nice shot," you say putting your arm around her waist to comfort her.
+
+"Thanks," she replies, "You okay?"
+
+"Yeah." You say.
+
+Emma snuggles in close to you.
+
+"Wanna talk about the happier news?" she asks.
+
+"Sure." you say.
+
+"What should we name the child should it be a boy?" she asks.
+
+"Well if it's a boy, we'll call him William, after your father."
+
+"I like it."
+
+You and Emma look at each other and hold each other tightly.
+
+> You say "And if it's a girl?"
+
+Emma smiles. "Then we'll call her Elizabeth, after your mother."
+
+"It's a deal."
+
+The two of you look forward to the birth of your child.
+
+9 months pass.
+
+You and Emma are sitting on the bed, the baby in a crib in front of you. You hold your hands out to it, and it opens its mouth. You quickly grab your hands back.
+
+"It's hungry!" you say.
+
+Emma laughs and feeds the child, a beautiful baby girl with curly brown hair.
+
+"She has your eyes."
+
+"She has Dad's nose."
+
+"She has your hands."
+
+"She has Mom's mouth."
+
+Emma and the baby grunt and coo in unison, then Emma smiles at you.
+
+Emma picks up the baby "Hello Elizabeth" she says.
+
+You look at your wife cradling infant daughter and smile.
+
+You both sit like that throughout the night, watching over your daughter, who sleeps soundly in her crib, until the morning's light. Then you stand, walking over to your daughter. You look down at her, smiling.
+
+"She's beautiful," you say.
+
+"She is." Emma says hugging you.
+
+1 and a half years pass and you ask Emma if she wants to try for an heir.
+
+"I'd love too," she says.
+
+You and your wife engage in marital relations a month later.
+
+The new year of 535 brings good news: you are the proud father of a baby boy.
+
+You name him William
+
+15 years pass.
+
+You and Emma are both 36
+
+Elizabeth is 16
+
+William is 15
+
+You are sitting in your study looking over the latest border reports with Emma when you here the door open. William and Elizabeth run in.
+
+"Dad Dad, look what we found." William says out of breath.
+
+William hands you a small box that you open. It contains a ring, made from gold and holding a small black gem.
+
+"Oh my..." you say in shock. "Were did you find this?"
+
+"I found it in the woods. We were walking through and I heard a noise. I went to investigate and I found this!"
+
+"Why William, this is most interesting. Thank you for finding this."
+
+William nods proudly and sits down.
+
+Emma comes over and sits on the desk in front of you.
+
+"I need to talk to you," she says leading you into another room. "Shut the door."
+
+You close the door and walk over to your wife.
+
+"What's the matter?"
+
+"I need to talk to you about William and what he found."
+
+"I thought you said he did well. What's wrong with finding a ring in the woods?"
+
+"That ring is a talisman of Havesh, the rogue druid."
+
+You hear Elizabeth scream in the room you just came from. You quickly run to the room to find out what is going on.
+
+"WILLIAM!" she screams again, tears filling her eyes.
+
+You look down and see your son lying on the floor with a large bloody gash across his chest.
+
+You turn to Elizabeth as Emma goes to help William.
+
+"What happened?" you ask her franticly. 
+
+"He touched it" she sobs "He touched the ring"
+
+"Elizabeth go get the physician, quickly!" you shout. She runs out of the house to fetch him.
+
+You turn to Emma. "is he still alive?" you ask her.
+
+"Yes, he is still breathing and his heart is still beating."
+
+William gasps and twitches.
+
+You go over to your son who opens his eyes weakly.
+
+"Mom..." he says before passing out from blood loss.
+
+Emma holds him in her arms.
+
+Elizabeth runs into the room with the physician behind her.
+
+"My gods!" He says.
+
+He quickly goes over to your son and starts trying to help him. 
+
+"Please help my son!" Emma sobs.
+
+The physician looks up at you and you nod. He starts trying to help your son.
+
+"Please wake up William." She begs.
+
+Your son's breathing starts turning deeper. The physician goes back to writing something down before speaking again.
+
+"He needs a surgeon, not a physician."
+
+You nod in agreement.
+
+"We're sending him back to Alethes."
+
+"He is in no fit state to move. I suggest calling a surgeon here" the physician says.
+
+"Would you be willing to find a suitable one?" you ask him.
+
+"I can try, but be prepared to wait at least a week" He answers.
+
+You nod in agreement. The week will go by quickly enough for matters of this nature.
+
+You move William to his bed.
+
+"Emma, could you take care of William for me? I have to talk to the doctor."
+
+"Of course" she says.
+
+You walk out of the room, with Elizabeth following behind you.
+
+"What is going to happen to William?"
+
+"He has just had a very deep wound, he will heal."
+
+> You say "Will he survive the week?"
+
+"Yes, he will probably survive"
+
+You nod in agreement. William is a tough boy, he will be fine. 
+
+You wait for a week for the physician and the surgeon to come. In the meantime, you try and keep the village running.
+
+Finally a week has passed and the physician comes to see you. 
+
+"I'm so sorry for the delay in coming to see you. We had to wait for a specialist."
+
+"It's fine, so how is my son?"
+
+You sit anxiously in your chair as the physician walks up to you.
+
+"Well...(Sigh) it's bad news I'm afraid."
+
+You take a deep breath; you knew it was going to be bad.
+
+"What's the matter? Is it really as bad as it seems?"
+
+"No, not really."
+
+He pauses as if deciding how to explain.
+
+"He's alive, but he is in very critical condition.
+
+> You say "Can you save him?"
+
+"I believe it's touch and go, but with care he could live."
+
+You nod in an understanding. It seems even if your son does survive this, he will not be the same.
+
+> You turn to Emma and ask "Is there any magical way you no of that may help him?"
+
+"I have tried many things....nothing works."
+
+Emma does not seems too hopeful. William's life is obviously very precious to her.
+
+"Could you not pray for him?" 
+
+"As I said, I have tried many things, but it seems the Gods are not answering me."
+
+Emma nods in agreement.
+
+"Well, we can only hope" you say.
+
+Emma holds your hand and the three of you sit together on your bed looking out the window at the passing clouds. The physician has said that your son will most probably not survive the night, but you hold out hope.
+
+The moon appears in the sky and its light floods in through the window. The clouds, which seemed to move very quickly earlier on in the night, now slowly pass by outside.
+
+William's eyes flicker and he begins to breath more regular. You put your hand on his chest wound and feel his heart beat.
+
+His eyes open and he focuses on you.
+
+"Dad?"
+
+"I'm here son" you say stroking his hair.
+
+"How...come on...I feel cold."
+
+Emma sobs as she holds William's hand.
+
+"It'll be all right son."
+
+William tries to sit up.
+
+"Ow" he says wincing.
+
+"It'll be alright William, just try and relax."
+
+William closes his eyes and takes a deep breath. 
+
+"I'm scared" he says.
+
+"You don't need to be, you're going to be fine" you reassure him.
+
+"Where's Elizabeth? Is she all right?" he asks.
+
+You nod.
+
+"Yes, she's fine too. She's at here."
+
+William nods and sighs.
+
+He opens his eyes and looks at you.
+
+"Do you think I could see her?"
+
+Elizabeth walks over to him from the corner."I'm here William" Elizabeth says.
+
+"Tell them what really happened when we found the ring." He says to her.
+
+"Huh?" she asks.
+
+"Tell them the truth"
+
+"What about..."
+
+"No."
+
+He turns to you and Emma.
+
+"The truth."
+
+Elizabeth turns to you and Emma nervously. 
+
+"It was horrible..."
+
+Emma strokes Elizabeth's hair and begins to comfort her. 
+
+Elizabeth wipes her eyes and begins to speak.
+
+Elizabeth tells of the events that occurred when she and William found the ring.
+
+"We were out hunting when we came across a small band off people in the woods. They had been heavily drunk and they tried to touch me. William come in with his sword and slaughtered them all. we found the box in the carnage. It turns out they were sorcerers." she tells.
+
+William nods and touches her shoulder."It's okay. It's in the past now."
+
+> You say "You two should have told us sooner"
+
+You sigh and stand up.
+
+"Why didn't the two of you tell your mother and I this before?"
+
+"We didn't want to worry you..."
+
+You nod your head.
+
+"I understand, but you really should have told us sooner."
+
+William nods and glances at his sister.
+
+"We're sorry..." he says.
+
+"It's fine"
+
+You nod and stand up.
+
+"Well, you both should get some rest."
+
+Emma smiles and kisses the top of William's head.
+
+"Good night William"
+
+"Good night, Dad."
+
+You and Emma go to your room while Elizabeth goes to hers.
+
+Emma walks over to you and lays next to you in bed.
+
+"If William hadn't killed those men I would have!" you say.
+
+"I know," she says. "but it hardly matters now."
+
+You and Emma lay in silence for a while.
+
+"You know," she says. "I'm starting to get very nervous."
+
+"Why?" you ask.
+
+She moves closer to you and looks into your eyes.
+
+"Because as much as we've been training William and Elizabeth, it still won't be enough. We need to train them to use magic as I can."
+
+"Emma, I don't think it's a good idea. Their minds are not ready fo the toll yet."
+
+"I just need to teach them a few things, and you don't have to worry about it. You'll be able to relax again, I promise."
+
+You look into her eyes and see the determination there.
+
+"Fine. But don't say I didn't warn you. Alright?"
+
+Emma nods.
+
+"Alright."
+
+You lie down on your bed.
+
+"Just one question. How do you expect to teach them anyway? I mean...how?"
+
+Emma stands up and walks to the side of your bed.
+
+"The best way I can think of is for you to teach them."
+
+"Me?" you ask in shock.
+
+"You spar and they will try to use magic to beat you. That way they learn how to use it in hand to hand combat." she says.
+
+"What am I supposed to do when they use magic against me?"
+
+"Whatever you do, don't run! It's gonna be hard, but try to hold your ground."
+
+You nod.
+
+"I can do that."
+
+Emma smiles and lays down next to you. She puts her arm over your chest and hugs you tightly.
+
+"You're the best." she says.
+
+You smile and kiss her forehead.
+
+"Love you." you reply.
+
+Emma rolls over and starts kissing you. You return the kiss and embrace her tightly. Right at this moment, you couldn't give a shit about anything else.
+
+Emma gets up and starts stripping her clothes off.
+
+"Well, you're finally warming up!" she laughs.
+
+You stand up and join her. You quickly get undressed and embrace her once more.
+
+"I love you," you whisper in her ear as you caress her full breasts.
+
+"I love you too." she says breathlessly as she pushes you onto your back and straddles you.
+
+The next few hours is a blur. You push, pull, and thrust into her over and over again. It feels so good you don't want it to ever stop.
+
+Eventually, it does. You really don't care though.
+
+"Hey."
+
+"Mmmm."
+
+"We're not done are we?"
+
+"Not by much."
+
+You push her off of you.
+
+"Em."
+
+"Just one more."
+
+"We need to get some sleep."
+
+"One more quick one."
+
+"Hah...fine."
+
+You lie down next to her and kiss her. You thrust into her in one quick motion and it's over.
+
+the two of you spoon naked.
+
+"That was great." she says.
+
+"It was."
+
+"I love you."
+
+"I love you too."
+
+You kiss the top of her head and wrap your arm around her.
+
+"Goodnight."
+
+"Goodnight my love."
+
+The two of you fall asleep.
+
+The next day you wake up to the sunlight shining on your bed. You sit up and look at Emma. She stirs a bit, but opens her eyes and looks at you.
+
+"Morning."
+
+"Morning. Sleep well?"
+
+"Yes, I did. You?
+
+"I did."
+
+The two of you get up and get dressed. You both head to Williams room to check on him.
+
+To your surprise you see him standing up. The huge cut nothing but a thin white scar. He has no other major wounds.
+
+"Dad!"
+
+You run up to him and give him a big hug. He hugs you back, but almost feels like he's weak in the hug.
+
+"I'm ok!" he laughs.
+
+Emma walks up next to you and smiles at him. He puts his hands on her shoulders and looks at her.
+
+"I'm sorry to have frightened you mother." He says.
+
+"Don't worry about that."
+
+She kisses him on the forehead.
+
+Elizabeth walks in and says "William your up, its a mericle!"
+
+One month passes.
+
+You here a knock on the door. You walk up and open it. You see an old man standing there. There is something oddly familiar about him.
+
+"Alaric," he says with tears in his eyes "My boy I have found you."
+
+He quickly wipes his eyes and gives you a smile. You also notice a woman behind him. She looks about your age.
+
+"Who are you?" You say to the man.
+
+"I am your father, son" he says, "and this is your sister." He gestures to the woman behind him.
+
+You stagger backwards. Your eyes dart from the old man to your sister. Your brain can't process all the information it's receiving. You feel a sudden rush of nausea as your stomach churns.
+
+"Dad...dear God...."
+
+"Who is it honey?" Emma asks walking towards the door with your two kids.
+
+You don't say anything. 
+
+They walk to the door. 
+
+"Oh my gods!" Emma says looking at the old man then to you.
+
+"You must be Alaric's lovely wife." He says to Emma. "A pleasure to meet you miss."
+
+She turns to you "isn't that..."
+
+You nod weakly.
+
+She gasps "I thought he was dead!"
+
+"As did I." You say.
+
+Your father smiles "I very neer was. Ah, and these must be your children!" He says spotting them.
+
+You nod.
+
+"What a handsome young man and beautiful young woman!" He says smiling at them.
+
+"Its a pleasure to meet all of you!" Your new found sister says.
+
+"I never knew I had a sister." You say.
+
+She smiles at you "And I have spent my life searching for you."
+
+Emma says to you "We should invite them in."
+
+"Yes, of course." You say and you all go sit around the fireplace.
+
+You start to ask "is mom..." but don't finish.
+
+Your father interrupts you "She's dead son. I'm sorry."
+
+You can't speak, your mind can't take anymore.
+
+Emma puts her arm around you. You lean into her for support. She strokes your hair.
+
+"What are your names?" Emma asks your father and sister.
+
+"Johnathan and Lily Hayward. What are all yours?" Your father says.
+
+"Emma, William, and Elizabeth Hayward" she says pointing to each of them in turn.
+
+"I'm glad my son found such a nice and beautiful woman to settle down with" he says.
+
+Emma blushes and smiles.
+
+"Perhaps we should all get to know each other now." Your sister says.
+
+"Yes, I want to know everything that has happened to you since I last saw you all those years ago" your father says.
+
+You tell him about everything, the battles you've fought, your meeting Emma, your marriage, your children's births, your becoming king of this village.
+
+He listens intently and nods at the right moments. He asks very few questions and mostly just lets you talk, but when he does ask questions it is always the right ones.
+
+"Tell me about your wife."
+
+You say "What would you like to know about her" looking over to Emma.
+
+"Hmmm...where should I start?"
+
+Emma bites her lip nervously.
+
+"Well, she is very beautiful of course." You grin.
+
+Your father laughs "Of course!"
+
+Emma kisses you on the cheek.
+
+"And her hair...." You smile.
+
+Your father chuckles "Anything else ?"
+
+You think for a moment.
+
+"Well she is very intelligent and very kind." You say.
+
+Your father nods as if he already knew this about your wife.
+
+"And she's got a great singing voice," you smile.
+
+"Alaric!" She says blushing.
+
+"Well it's true." You grin.
+
+Your father pats you on the shoulder "Well son, I'm glad you have a beautiful wife, and I'd say that covers everything."
+
+You smile and nod.
+
+"So, Lily, do you have anyone you are seeing?" Emma asks her.
+
+"No, I'm not with a man right now." She says.
+
+"What about a woman?" Emma asks.
+
+"I'm not seeing anyone in particular."
+
+"Have you ever been?" you ask.
+
+"What, a lesbian?" she laughs nervously.
+
+"Well yes, if that's what you are."
+
+"Perhaps," she says quietly. "I'm bi"
+
+Several weeks pass. Your father and sister are living in your two spare bedrooms
+
+One morning liy comes to you and asks if she can bring her friend over to talk.
+
+You say "Of course"
+
+She comes back with a girl your age. She's pretty with long brown hair and a kind face. You like her at once.
+
+She introduces herself as Alison.
+
+Lily brings Alison to her room.
+
+You quickly start to here moaning coming from behind the door.
+
+Lily's P.O.V.
+
+I help Alison out of her dress. We're really taking our time....
+
+Alison and I lay down next to each other and cuddle naked under the blankets. She idly starts playing with my hair.
+
+"So....Alison, I was just wondering. Have you ever.. had sex?" I ask nervously.
+
+"What kinda question is that?" she giggles.
+
+"Well, everyone has had sex sometime in their life right?"
+
+"I...I guess so." She says quietly.
+
+"Well? Were you a virgin when we met?"
+
+She pauses "No..."
+
+"I didn't think so. How many men have you had sex with then?"
+
+"Um, just one. I mean I really liked him and he seemed to like me too."
+
+"Well, that's good. It's nice when everything goes well."
+
+I kiss Alison on the cheek. "It was nice meetin' ya." I say, getting up.
+
+"So, you never had sex with a girl before then?"
+
+"No. I didn't even really know what it was until recently."
+
+"It's pretty fun."
+
+"I'm willing to try it" she says running her hand down my body.
+
+"Really?" I ask.
+
+Soon, Alison and I are having sex...
+
+It's one of the best times of my life.
+
+We continue for quite some time, as I start to learn more and more about her.
+
+Alison is a virgin, like me. She's not human either, she's an elf. Not quite as pretty as Emma, but still pretty. She's about my height though, so we have a similar body type.
+
+Her village was destroyed by demons a few years ago.
+
+I caress her naked body beside me. I kiss her passionately on the lips.
+
+"What are you doing?" she asks.
+
+"I just wanted to do this for a really long time."
+
+She smiles and leans in to kiss me back.
+
+My hand slowly starts to move towards her crotch.
+
+"Hey, what are you doing?"
+
+I smile and tell her that I've wanted to do this for a long time as well. She stops protesting and lays back down.
+
+I slowly start to undress her as she does the same. Soon she's naked beside me. Our bodies fit together perfectly. I slowly enter her.
+
+We start out slowly to avoid hurting each other. The moment we start to enjoy the act, we go faster and faster. My mouth goes to her breasts and I start to suck on them. She arches her back and starts to moan loudly, which fills the room.
+
+"Let's eat each other out." I say
+
+"Mm, I like the way you think."
+
+I lay down on the bed and she turns around so her pussy is in my face and mine is in hers. We both start to kiss each others pussies. It's so warm and wet. It smells sweet too.
+
+I start to lick her clit as she does the same to mine.
+
+"Oh shit, Lily! Don't stop!" she says as she starts to grind on my face.
+
+I put two fingers inside her as she does the same to me.
+
+"Oh my god, I'm gonna...!" she yells.
+
+I feel her start to tighten around my fingers as I do the same. I smile as I feel her juices filling my mouth. I then stick my fingers inside my mouth and taste her sweet flavor.
+
+We lay together panting.  "That was amazing." She says.
+
+"It was certainly something." I say as I start to get dressed.
+
+"Are we going to do that again sometime soon? I really enjoyed it."
+
+"I'd love too."
+
+We kiss one more time before I head out.
+
+Alaric's P.O.V.
+
+You go to Emma who is reading in the study.
+
+"do you think we should begin the children's magical defense training now?" you ask her.
+
+She thinks for a moment. "I suppose you're right, it will still be awhile before we can easily defeat a demon, and we should at least have something in case we need to fall back on it.
+
+You bring Emma, William and Elizabeth into a wide open field. You've chosen a place that's fairly away from any villages, although there is a slightly wooded hill nearby that you could easily build the training camps in.
+
+Once there you start the training as you had discussed.
+
+> You say "Alright, your mother and I have deemed it fit that you two should learn how to defend yourselves with magic. What we are going to do is one of you will spar with me and try to win with magic then the other goes and so on and so forth. understand?"
+
+William nods his head vigorously, never taking his eyes off you.
+
+"Yes, sir. Is it OK if I go first?"
+
+"Sure." You say.
+
+William draws his sword and walks toward you. You draw your sword as well. William attacks first, charging at you. You expect this, so you raise your shield as he hits it. He pushes against the shield to no avail. He's used his sword as a battering ram. No matter, you still block it with your own. He swings again, you block, then the two of you clash swords.
+
+"Remember, try to win with magic." You say.
+
+The two of you fight for a while. There is no fancy fighting, just two strong warriors hacking and slashing.
+
+Suddenly his eyes glow white and a blast of energy shoots you back.
+
+> You say "Nice William!"
+
+"I did it!" he says excitedly.
+
+Emma says to your daughter, "Your turn Elizabeth."
+
+Elizabeth draws her sword and walks towards you. She attacks as you had taught her, by walking into you with the tip of the blade. She's very similar to you in that way. You raise your sword to block an attack from her. She seems to have gotten better in a short amount of time.  She strikes the sword aside with her sheild, your counter attack is blocked by her, she ducks down and sweeps your ankle, tripping you. She kicks you, knocking the wind out of you.
+
+You get up.
+
+"Remember, try to win with magic."
+
+You and Elizabeth fight for a little while longer. There is a slight drop in intensity as you tell her to do various things like that more often.
+
+After not to long Elizabeth's eyes start to glow as well. This time you feel the handles of your sword and shield grow hot.
+
+"Ow!" you say and drop the weapons.
+
+Emma laughs "Good job Elizabeth!"
+
+"I did it!" she says excitedly.
+
+Emma smiles and gives her a hug.
+
+"Now lets see if you two can beet us." Emma says to your children.
+
+She walks over to you with her sword and shield out.
+
+William and Elizabeth charge the two of you.
+
+You and Emma stand back to back shields raised.  William swings his sword, Emma raises hers to block. William kicks her legs away, she falls, but her shield stays up protecting her.
+
+She elbows him in the stomach, he staggers backwards. She swings the shield to knock his sword out of his hand. Then slams it into his chest. He falls backwards.
+
+Elizabeth runs forward, not pausing her attack. She attempts to stab you, but you raise your shield and the sword bounces off harmlessly.
+
+You swings her sword at Elizabeth. She raises her shield to block.
+
+You kick her shield sending making her fall on her butt.
+
+William and Elizabeth gang up on you and tackle you laughing. you all drop your weapons.
+
+"Guess who's too strong for you now?" William says.
+
+"Yeah, you're so weak!" Elizabeth says laughing.
+
+You're all laughing as you're roughhousing.  You think about how much you've actually enjoyed raising your children.
+
+"Alright," Emma says laughing at you three "I think you've beaten him.'
+
+Willaim and Elizabeth get off you and turn to their mother grinning.
+
+"Yes!" William says.
+
+"Thank you mother!" Elizabeth says hugging her.
+
+Emma hugs them both.
+
+"I love you both," she says.
+
+"We love you too," they say.
+
+Emma smiles.
+
+"Now," she says holding up a basket "who's hungry"
+
+You all sit down around the basket to eat. you sit next to Emma and put your arm around her waist. She moves closer to you and puts her arm around your shoulders.
+
+"Eww!" Elizabeth says jokingly.  
+
+You laugh and throw a chunk of bread at her.
+
+William and Elizabeth laugh as well.
+
+After you've all had enough to eat. you start to pack up camp.
+
+You start to walk home. The whole time you think about how much you and your family has grown. 
+
+The next morning you hear a knock on the door. You open it to see a pretty young girl of about 15 to 16, about William's age.
+
+"Hi, I'm here to see William." she says breathlessly. 
+
+"Will, you've got a visitor." you shout up the stairs.
+
+"Coming Dad" he says.
+
+Moments later he comes down.
+
+"Who is it?" he asks.
+
+You turn to the girl "I'm sorry, I don't have your name." you say.
+
+"It's..." she begins
+
+"Cara!" William says running up to her, "What are you doing here?"
+
+"Um, Will... Who is this?" you ask him.
+
+"She's my...um..."
+
+"You haven't told them?" Cara asks him.
+
+William shakes his head.
+
+Cara sighs and holds her hand out to you "I'm his girlfriend."
+
+"Oh," you say clasping your hand in hers, "It's nice to meet you."
+
+Cara smiles at you sweetly.
+
+"You're not mad or anything?" William asks.
+
+You shrugs your shoulders "Why would I be, son?"
+
+"I don't know," he says.
+
+you turn to Cara "Why don't you come in, we've got a fire going."
+
+"That'd be great, thanks," she says walking in and dropping her pack by the door.
+
+As you enter the living room you see Emma stoking the fire. "This is Cara," you say to Emma, "William's girlfriend."
+
+Emma turns to face you as she works the fire. "It's nice to meet you," she says extending her hand smiling warmly.
+
+Cara smiles and shakes her hand.
+
+"It's nice to meet you to ma'am."  Cara says politely.
+
+"Please call me Emma," she says with a smile.
+
+Cara smiles and nods her head, "It's a pleasure to meet you Emma."
+
+William walks in and sits down next to Cara. He puts his arm around her and kisses her cheek.
+
+"So how long have you two been together" Emma asks them.
+
+"A few months now" Cara says.
+
+"It's been good," William says, looking at her with a smile.
+
+"Yeah, it really has," she smiles back.
+
+A few months latter you are out training with your family. And Cara walks up.
+
+You've grown quite fond of Cara, you are happy for William.
+
+"I'll be right back" William says and breaks away from your sparing session.
+
+"Hey how about you invite her to join us." you say to William.
+
+"Really, sure. She'd love it."
+
+"Yeah, I thought you would," you say with a smile.
+
+William smiles and heads off to invite Cara to join your training session.
+
+She walks over to you "I don't have a weapon." she says.
+
+"here you go!" Emma says handing her a spare sword.
+
+"Thanks," Cara says.
+
+You and Emma sit back and watch your daughter, son, and his girlfriend spar.
+
+"They're so cute!" Emma says.
+
+"Yeah, they are," you smile.
+
+Cara and William really are a perfect match.
+
+After a while Cara walks up to you two and says "Mr. and Mrs. Hayward I have to ask you something..."
+
+"Shoot," you say.
+
+"When we come of age William and I would like to marry." she says.
+
+"Well of course," you reply.
+
+"Really?" she asks.
+
+"Of course."
+
+"You don't see a problem with it?"
+
+"What would there be to see? You two are in love, you're both soldiers. Seems like a perfect match to me."
+
+Cara exhales deeply "Thank you."
+
+"You're welcome," you say.
+
+William comes running up to you "They won't allow it!" he says.
+
+"Oh yes they will." you say to him.
+
+He drops what he's holding and hugs his betrothed.  "Thank you father."
+
+You nod. "Now remember you can't marry for four years."
+
+"I know, I know."
+
+After a moment William lets go and heads back to the exercises.
+
+Four years latter.
+
+William and Cara's wedding is tomorrow.  It will be a small private affair. Everyone you hold dear is coming, and many of your subjects are as well.
+
+The city is decorated, the wedding march is being played.
+
+Emma and you are sitting on your thrones wearing formal robes.
+
+William and Cara walk down the length of the throne room hand in hand.
+
+When they arrive they turn to you and you get up and walk over to them.
+
+"By the power in me as king of this realm I pronounce you married" you say.
+
+Cheers break out over the gathering.
+
+William and Cara embrace. 
+
+Then all of a sudden a loud piercing laugh comes from the far end of the throne room. It echoes off the high ceilings, and stops everyone in their tracks.
+
+"What the . . ." Emma says looking around.
+
+Everyone starts to get up when the laugh is heard again, and this time a tall slender woman in a dark robe walks in. She has long black hair and is wearing a dark smoky blue dress. She looks at everyone in the room, walking slowly forward as if to inspect them all.
+
+"Who are you?" you demand.
+
+The woman stops in front of you and raises a delicate eyebrow. 
+
+"I am Lorien," she says "and I have come to test you."
+
+"Test us for what?"
+
+She raises another eyebrow. "Are you prepared?"
+
+You look around and then back to her. "For what?"
+
+She takes a step towards you, now mere feet away. She clearly isn't afraid of you.
+
+"I have many tasks for you two."
+
+"Go on," you say.
+
+She snaps her fingers and suddenly you find yourself hanging next to Emma chained to a dungeon wall.
+
+"Emma!" you say.
+
+"Oh my," she says. "What are we doing here?"
+
+"I don't know," you say.
+
+Suddenly the door opens and your torturer enters. He shackles you both arms and legs. "Ah, the king and his queen." He says with distain.
+
+Emma is dragged from the room.
+
+> You say "No! Leave her alone!"
+
+He ignores you, and begins dragging her out.
+
+you can here Emma screaming just down the hall. You collapse on the ground and sob.
+
+Then you notice a small bit of metal on the floor. You quickly pick it up and try to pick the lock on the chains. *Click* they fall away. 
+
+You run out the door to find Emma.
+
+You come to the room where you here the screaming. You charge in and see a truly horrific sight.
+
+You see Emma tied naked and spread eagled to a table. There are long deep gashes all over her body. You see a glisening white substance on her chest which you recognize as seamen. Standing over her is a gigantic brutish man with a knife.
+
+When Emma sees you she shouts "Alaric, run!"
+
+"No!" you shout.
+
+"Ah, the king!" the giant says turning to you, "You're gust in time!"
+
+he thrusts the knife downward directly into Emma's heart.
+
+"NO!" You sob, charging the huge man.
+
+He laughs and catches you by the neck and lifts you off the floor.
+
+"Silly little man, your wife was quite the beauty she was very pleasurable. I fear I may have torn her pussy though." he says gesturing to your wife's mutilated corpse with his free hand.
+
+You kick him in the crotch as hard as you can. 
+
+"Ow!" he shouts dropping you and his knife.
+
+You grab his discarded blade and burry it deep in his skull.
+
+he falls down dead.
+
+You run to Emma's body.
+
+"Emma!" you sob and collapse next to her.
+
+"I'm sorry, my love." You say "I'm so sorry."
+
+You hold her hand and close your eyes.
+
+When you open them again you are standing in a huge wheat field. Emma's body is nowhere to be seen.
+
+You look around and see the sorceress from the throne room.
+
+"Congratulations," she says "you have passed the first test."
+
+"You! You killed her! You had that maniac rape, torture and kill my wife!" you shout at her.
+
+"Oh Emma is quite alright," she says waving her hand.
+
+Emma appears next to you crying, still naked and clutching at where the now gone cuts where.
+
+You rus over to her and take her into your arms "Oh thank the gods!" you say. "I thought you were dead!"
+
+Emma holds on to you tight and continues to cry. You have never heard her cry like that.
+
+you take off your cloak and rap it around her. "You're all right now, my love" you say cradling her in your arms.
+
+You turn to the sorceress "What have you done!?" you demand.
+
+"I told you I was testing you." she said "you have proved that you are courageous and that you will do what you must to save or avenge those close to you."
+
+"If I passed your test give My wife some clothing! Why have you stripped her?" You say.
+
+Emma stands behind you in your cloak, holding it tightly around her
+
+"All in due time" the sorceress says. "Now go down that road there. You'll know when to stop." she points to a road near by and disappears.
+
+You and Emma set off down the road.
+
+"We're going to be alright, we're going to make it through this." you say to her, trying to comfort her as you can.
+
+Emma stops crying and smiles weakly
+
+"I know," she says.
+
+She leans in and hugs you, and for a moment you forget all your worries.
+
+After a few minutes in each others arms, she pulls away.
+
+"We should keep going." she says briskly.
+
+You nod in agreement and set out down the road.
+
+It's going to be a long journey and you know it.
+
+Two days later you come across a band of men in the woods. They're bandits and they seem to be waiting for someone. The leader is a man called "Roldan". He is about your age, tall and lean with fair hair.
+
+You and Emma stumble into their camp.
+
+"Please, help us." you beg them.
+
+"Who are you? And why is that woman naked but for a cloak?" Roldan asks.
+
+"My name is Alaric," you say. "And that's my wife. As for her state of dress that is a long story."
+
+"We have no extra clothes."
+
+"Please sir, if you don't help us we will die."
+
+Roldan looks at you and then at Emma who is still covering herself with your cloak.
+
+"Fine," he says. "We will help you."
+
+"Thank you."
+
+"But," Roldan continues. "You will have to do something for us in return."
+
+"What is it?"
+
+"We need more wood for the fire." he says
+
+"Of course," you say and go to collect some
+
+When you return with a large pile of firewood Emma walks up to you still wrapped in your cloak.
+
+"I don't trust these men" she says.
+
+"Same here," you reply.
+
+"Do you think they'll attempt to kill us?" she asks.
+
+"Probably.But they are our best chance to get back home." you say.
+
+You and Emma return to the crew and toss the firewood on the campfire.
+
+"You're a little warmer now." you say, trying to cheer her up.
+
+"I guess," she replies, a bit unconvinced.
+
+Roldan walks over to you two with an extra cloak. He hands the cloak to you and says "You fulfilled your end of the bargin so what is it you require from me?"
+
+"We need food and water, and my wife, Emma, needs clothing. We had a run in with a sorceress and she stole Emma's clothes for some reason."
+
+"As to the first, I shall try to provide. As to the second, well we require payment from your wife."
+
+"What kind off payment?" she asks nervously.
+
+"Well... From what I hear the Queen has an excellent singing voice." he says with a nasty grin.
+
+Emma looks terrified.
+
+"I'm not singing for you perverts!" she cries.
+
+"You are if you want you and your husband to live." he says binding your hands and pressing a knife to your back.
+
+"Oh and you can loose the cloak." he says wickedly.
+
+Roldan ties you to a post by the fire and directs Emma into the middle of their camp. "Everyone! Come, our gest is putting on a show for us!" he shouts to his bandits. He takes Emma's cloak and says "Sing girl!"
+
+Emma is forced to begin singing naked before them. It is horrible to hear her sing while she is naked.
+
+"I'm not singing for you perverts!
+
+Roldan slaps her hard across the face. "If you don't will through your husband on the fire and feed the remains to the wolves!"
+
+Emma begins to sing shakily. She keeps her gaze on the ground in front of her.
+
+"As I walked out one evening
+
+The moon was shining bright
+
+I saw a shadow on the ground
+
+And it looked like love had died!"
+
+Roldan and his men laugh and cheer.
+
+"As I walked out one evening
+
+The moon was shining bright
+
+I saw a shadow on the ground
+
+And it looked like love had died!"
+
+Emma begins to break down and cry. She begins to sing shakily, with a weak voice.
+
+"But I got strength within my heart
+
+To carry on and on for you"
+
+Her voice gets softer and softer, as she has a hard time making it through the song.
+
+"And when I need to sleep at night
+
+I close my eyes and dream of you."
+
+Emma closes her eyes and begins to sniffle. Roldan grabs her by the hair and lifts her head up to look at him.
+
+"Well that's it then, you're done." he says. "With that part. Let's tie her up with her husband!"
+
+The bandits all rush forward grabbing Emma . She tries to scream, but they gag her. They pass her around between themselves, it is a horrible sight. 
+
+Suddenly a silver arrow shaft appears in the chest of one of the men groping Emma. Elves!
+
+30 of them rush out of the woods killing every bandit in sight.
+
+When the fighting is done the one that looks like their leader walks over to Emma who is curled in a ball on the ground crying. He removes his cloak and drapes it over her, "You're safe now, miss" he says.
+
+He begins to heal Emma's wounds. Most of them are just cuts and bruises, fortunately his magic is stopping the bleeding.
+
+"Thank you." Emma says.
+
+"Don't mention it, my lady."
+
+You see a young male elf dressed in leather armor with two short swords tied to his sides and a bow on his back. He spots you and cuts you down.
+
+"Thank you," you say and run over to Emma.
+
+"Emma!" you say. "Are you alright?
+
+She just sobs.
+
+The elf king turns to you, "Is this your wife?" he asks.
+
+"Yes" you reply. "Do you have any clothing you might spare for her? Those bandits burned hers and made her sing!"
+
+The elf king waves his hand and a she-elf comes over with a bundle of elegant elvish clothes. You take them and go over to help her change.
+
+When she is done the elf king preforms healing magic on both you and Emma.
+
+"I have transferred some of my Immortal life into you," he says, "You are now also immortal."
+
+You look at Emma she is almost glowing, she looks incredibly beautiful in the elfish dress.
+
+"I don't know how we could ever thank you my lord" you say to him.
+
+"You don't need to, just protect her."
+
+Emma looks at you, you take her hand.
+
+"I will" you say.
+
+Just then you hear a whoosh behind you. you spin around and see the sorceress.
+
+The elf king shoots her in the face with an arrow.
+
+She falls dead.
+
+"Oh, thank you my lord!" you say to him, "This is the sorceress who got us into this predicament."
+
+"Indeed" he replies.
+
+"Well, she's dead now," you say, "Can we go?"
+
+"Yes, you may be on your way" he says
+
+and you set off for home.
+
+When you get there your children hug you fiercely. 
+
+"You're safe!" they all say in unison.
+
+"Yes, I'm fine! Now we need to talk..."
+
+You take them to the garden where you tell them everything that has happened.
+
+The End.
