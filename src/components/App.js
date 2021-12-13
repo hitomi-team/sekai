@@ -19,10 +19,8 @@ class App extends Component {
     onSubmit(workText) {
         console.log(workText);
         this.setState({workText: workText});
-        // submit request to this.generator
         let args = this.state.options;
         args.work = workText;
-        // overwrite this.state.workText with response returned by generate() which is a string
         this.generator.generate(args).then(response => {
             this.setState({workText: response});
             console.log(this.state.workText);

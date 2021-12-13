@@ -6,6 +6,7 @@ import { HtmlEditor, Editor } from '@aeaton/react-prosemirror';
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 
+import { WorkSubmitter, getRawText, submitWork } from './WorkSubmitter';
 import ControlsBar from './ControlsBar';
 
 import './WorkEditor.css';
@@ -32,49 +33,32 @@ const docSchema = new Schema({
 
 const plugins = [
     keymap({
-        'Mod-z': undo,
-        'Mod-y': redo,
+        'c-z': undo,
+        'c-y': redo,
+        'a-Enter': submitWork,
     }),
     keymap(baseKeymap),
-    history()
+    history(),
+    WorkSubmitter()
 ];
 
 class WorkEditor extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            infoMsg: '',
-            infoClass: '',
             value : props.value,
             onSubmit: props.onSubmit,
         }
         this.handleChange = this.handleChange.bind(this);
-        this.info = this.info.bind(this);
-        this.error = this.error.bind(this);
         this.onSubmit = this.onSubmit.bind(this);
-    }
-
-    error(msg) {
-        this.setState({
-            infoMsg: msg,
-            infoClass: 'error'
-        });
-    }
-
-    info(msg) {
-        this.setState({
-            infoMsg: msg,
-            infoClass: 'info'
-        });
     }
 
     handleChange(value) {
         this.setState({ value: value });
-        this.info('Saved');
     }
 
     onSubmit() {
-        this.state.onSubmit(this.state.value);
+        this.state.onSubmit(getRawText());
     }
 
     render() {
