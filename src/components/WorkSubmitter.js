@@ -1,4 +1,6 @@
 import {Plugin, PluginKey} from 'prosemirror-state';
+import { currentOptions } from './App';
+import { getGenerator, newGenerator } from './Generator';
 
 // this plugin is used to return the text of the editor, and to allow the editor to be changed
 
@@ -10,7 +12,6 @@ function applyTransaction(tr, value, oldState, newState) {
     return value;
 }
 
-// add newText to the state
 function submitTransaction(state, dispatch, newText) {
     var tr = state.tr.insertText(newText);
     dispatch(tr);
@@ -40,9 +41,13 @@ export function submitWork(state, dispatch) {
     let work = workKey.getState(state);
     if (!work) return false;
     if (dispatch) {
-        console.log('submitting work');
-        let apiResponse = 'fuck' // todo, actually use the api
-        submitTransaction(state, dispatch, apiResponse);
+        let generator = getGenerator(currentOptions);
+        if (generator === null) generator = newGenerator(currentOptions.serverOptions.serverAddress, currentOptions.serverOptions.username, currentOptions.serverOptions.password);
+        let options = currentOptions;
+        options.work = getRawText();
+        generator.generate(options).then(response => {
+            submitTransaction(state, dispatch, response);
+        })
     }
     return true;
 }

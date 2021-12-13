@@ -23,7 +23,9 @@ export const defaultOptions = {
         repetitionPenaltyRange: 2048,
     },
     serverOptions: {
-        serverAddress: "http://0.0.0.0:8080/",
+        serverAddress: "http://104.198.139.34:8080",
+        username: "test",
+        password: "test",
     },
 };
 
@@ -84,6 +86,8 @@ export default class OptionsBar extends Component {
             </div>
             <div class="tabcontent" id="tab-server">
                 <OptionTextSelection defaultTitle="Server Address" defaultValue={defaultOptions.serverOptions.serverAddress} onChange={(v) => {this.setState({options: {...this.state.options, serverOptions: {...this.state.options.serverOptions, serverAddress: v}}}, () => {this.state.onChange(this.state.options)})}} />
+                <OptionTextSelection defaultTitle="Username" defaultValue={defaultOptions.serverOptions.username} onChange={(v) => {this.setState({options: {...this.state.options, serverOptions: {...this.state.options.serverOptions, username: v}}}, () => {this.state.onChange(this.state.options)})}} />
+                <OptionTextSelection defaultTitle="Password" defaultValue={defaultOptions.serverOptions.password} onChange={(v) => {this.setState({options: {...this.state.options, serverOptions: {...this.state.options.serverOptions, password: v}}}, () => {this.state.onChange(this.state.options)})}} />
             </div>
         </div>
         );
