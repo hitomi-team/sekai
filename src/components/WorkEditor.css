@@ -58,15 +58,16 @@
     left: 5px;
 }
 
-.controls-content {
+.prosemirror-toolbar {
     margin-top: 15px;
     opacity: 1;
     position: relative;
     display: flex;
     flex-direction: column;
+    color: inherit;
 }
 
-.controls-bar {
+.prosemirror-toolbar-group {
     display: flex;
     flex-flow: row wrap;
     user-select: none;
@@ -82,7 +83,7 @@
     align-items: flex-end;
 }
 
-.controls-button {
+.prosemirror-toolbar-item {
     font-family: inherit;
     font-weight: bold !important;
     gap: 8px;
@@ -100,4 +101,9 @@
     justify-content: space-between;
     align-items: center;
     outline: 2px solid var(--app-dark-background-color);
+}
+
+.prosemirror-toolbar-item[disabled]:not(data-active="true") {
+    opacity: 0.5 !important;
+    cursor: default !important;
 }

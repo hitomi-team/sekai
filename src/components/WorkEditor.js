@@ -2,7 +2,7 @@ import { Schema } from 'prosemirror-model';
 import { keymap } from 'prosemirror-keymap';
 import { baseKeymap } from 'prosemirror-commands';
 import { history, undo, redo } from 'prosemirror-history';
-import { HtmlEditor, Editor } from '@aeaton/react-prosemirror';
+import { HtmlEditor, Editor, Toolbar } from '@aeaton/react-prosemirror';
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 
@@ -42,6 +42,46 @@ const plugins = [
     WorkSubmitter()
 ];
 
+export const leftToolbar = [
+    {
+        id: 'leftbar',
+        items: [
+            {
+                id: 'undo',
+                title: 'Undo',
+                content: 'Undo',
+                action: undo,
+                enable: undo,
+            },
+            {
+                id: 'redo',
+                title: 'Redo',
+                content: 'Redo',
+                action: redo,
+                enable: redo,
+            }
+        ],
+
+    }
+]
+
+export const rightToolbar = [
+    {
+        id: 'rightbar',
+        items: [
+            {
+                id: 'submit',
+                title: 'Submit',
+                content: 'Submit',
+                action: submitWork,
+                enable: submitWork,
+            }
+        ],
+
+    }
+]
+
+
 class WorkEditor extends Component {
     constructor(props) {
         super(props);
@@ -67,10 +107,15 @@ class WorkEditor extends Component {
                 <div class={this.state.infoClass}>{this.state.infoMsg}</div>
                 <HtmlEditor plugins={plugins} schema={docSchema} value={this.state.value} handleChange={this.handleChange} debounce={250}>
                     <Editor />
+                    <div class="prosemirror-toolbar-group">
+                        <div class="controls-buttons">
+                            <Toolbar toolbar={leftToolbar} style={{margin: '10px'}}/>
+                        </div>
+                        <div class="controls-buttons">
+                            <Toolbar toolbar={rightToolbar} style={{margin: '10px'}}/>
+                        </div>
+                    </div>
                 </HtmlEditor>
-                <div class="controls-content" style={{margin: '10px'}}>
-                    <ControlsBar onSubmit={this.onSubmit} />
-                </div>
             </div>
         );
     }

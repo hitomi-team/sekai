@@ -15,7 +15,6 @@ class GeneratorAPI {
         return fetch(this.baseUrl + url, {
             method: 'POST',
             headers: {
-                'Allowed-Origins': '*',
                 'Content-Type': 'application/x-www-form-urlencoded',
                 'Authorization': 'Bearer ' + token
             },
@@ -27,10 +26,6 @@ class GeneratorAPI {
         return fetch(this.baseUrl + url, {
             method: 'POST',
             headers: {
-                'Allowed-Origins': '*',
-                'Access-Control-Allow-Origin': '*',
-                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-                "Access-Control-Allow-Headers": "Content-Type, Authorization, Access-Control-Allow-Headers",
                 'Content-Type': 'application/json',
                 'Authorization': 'Bearer ' + token
             },
@@ -42,9 +37,6 @@ class GeneratorAPI {
         return fetch(this.baseUrl + url, {
             method: 'GET',
             headers: {
-                'Access-Control-Allow-Origin': '*',
-                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-                "Access-Control-Allow-Headers": "Content-Type, Authorization, Access-Control-Allow-Headers",
                 'Content-Type': 'application/json',
                 'Authorization': 'Bearer ' + token
             }
@@ -102,15 +94,10 @@ class Sukima_API extends GeneratorAPI {
         };
 
         return this.post('/api/v1/generate', request, this.token).then(response => response.json()).then(data => {
-            // truncate data.completion.text from length of prompt
-            let prompt_length = args.work.length;
-            let response_length = data.completion.text.length;
-            let truncated_response = data.completion.text.substring(prompt_length, response_length);
+            let truncated_response = data.completion.text.substring(args.work.length, data.completion.text.length);
             return truncated_response;
         });
-    
    }
-
 }
 
 let generator = null;
