@@ -6,8 +6,7 @@ import { HtmlEditor, Editor, Toolbar } from '@aeaton/react-prosemirror';
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import { WorkSubmitter, getRawText, submitWork } from './WorkSubmitter';
-import ControlsBar from './ControlsBar';
+import { WorkSubmitter, submitWork } from './WorkSubmitter';
 
 import './WorkEditor.css';
 
@@ -81,7 +80,6 @@ export const rightToolbar = [
     }
 ]
 
-
 class WorkEditor extends Component {
     constructor(props) {
         super(props);
@@ -90,28 +88,23 @@ class WorkEditor extends Component {
             onSubmit: props.onSubmit,
         }
         this.handleChange = this.handleChange.bind(this);
-        this.onSubmit = this.onSubmit.bind(this);
     }
 
     handleChange(value) {
         this.setState({ value: value });
     }
 
-    onSubmit() {
-        this.state.onSubmit(getRawText());
-    }
-
     render() {
         return (
-            <div class="editor">
-                <div class={this.state.infoClass}>{this.state.infoMsg}</div>
+            <div className="editor">
+                <div className={this.state.infoClass}>{this.state.infoMsg}</div>
                 <HtmlEditor plugins={plugins} schema={docSchema} value={this.state.value} handleChange={this.handleChange} debounce={250}>
                     <Editor />
-                    <div class="prosemirror-toolbar-group">
-                        <div class="controls-buttons">
+                    <div className="prosemirror-toolbar-group">
+                        <div className="controls-buttons">
                             <Toolbar toolbar={leftToolbar} style={{margin: '10px'}}/>
                         </div>
-                        <div class="controls-buttons">
+                        <div className="controls-buttons">
                             <Toolbar toolbar={rightToolbar} style={{margin: '10px'}}/>
                         </div>
                     </div>

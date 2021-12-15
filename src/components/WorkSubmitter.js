@@ -8,7 +8,6 @@ var rawText = '';
 
 function applyTransaction(tr, value, oldState, newState) {
     rawText = tr.doc.textBetween(0, tr.doc.content.size, '\n');
-    console.log(rawText);
     return value;
 }
 

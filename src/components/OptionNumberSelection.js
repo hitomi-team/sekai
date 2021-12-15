@@ -26,20 +26,20 @@ class OptionNumberSelection extends Component {
 
     render() {
         return(
-            <div class="option-selection">
-                <div class="option-title">
+            <div className="option-selection">
+                <div className="option-title">
                     {this.state.title}
                 </div>
-                <div class="option-description">
+                <div className="option-description">
                     {this.state.description}
                 </div>
-                <div class="option-value">
+                <div className="option-value">
                     <input type="number" value={this.state.value} onChange={this.onChange} />
                 </div>
-                <div class="option-default" onClick={() => {this.setState({value: this.state.defaultValue})}}>
+                <div className="option-default" onClick={() => {this.setState({value: this.state.defaultValue})}}>
                     Default: {this.props.defaultValue}
                 </div>
-                <input class="slider" type="range" min={this.state.rangeSliderMin} max={this.state.rangeSliderMax} step={this.state.rangeSliderStep} value={this.state.value} onChange={this.onChange} />
+                <input className="slider" type="range" min={this.state.rangeSliderMin} max={this.state.rangeSliderMax} step={this.state.rangeSliderStep} value={this.state.value} onChange={this.onChange} />
             </div>
         );
     }

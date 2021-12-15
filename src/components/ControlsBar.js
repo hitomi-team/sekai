@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import { ToolbarGroup } from '@aeaton/react-prosemirror';
 import PropTypes from 'prop-types';
 
 import ControlsButton from './ControlsButton';

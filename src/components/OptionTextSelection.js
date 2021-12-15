@@ -21,8 +21,8 @@ class OptionTextSelection extends Component {
 
     render() {
         return(
-            <div class="option-selection">
-                <div class="option-title">
+            <div className="option-selection">
+                <div className="option-title">
                     {this.state.title}
                 </div>
                 <input type="text" value={this.state.value} onChange={this.onChange} />

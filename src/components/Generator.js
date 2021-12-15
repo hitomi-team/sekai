@@ -44,12 +44,10 @@ class GeneratorAPI {
     }
 
     auth(username, password) {
-        console.error('Not implemented');
         return null;
     }
 
     generate(args) {
-        console.error('Not implemented');
         return null;
     }
 }
@@ -67,7 +65,6 @@ class Sukima_API extends GeneratorAPI {
             'password': password
         }, false).then(response => response.json()).then(data => {
             this.token = data.access_token;
-            console.log('Token: ' + this.token);
         });
     }
 
