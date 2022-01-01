@@ -39,6 +39,19 @@
     color: var(--app-paragraph-color);
 }
 
+.ProseMirror p:not(.empty-node) {
+    text-indent: 10px;
+    padding-bottom: 0.5em;
+}
+
+.ProseMirror p {
+    margin: 0px;
+}
+
+.ProseMirror > p {
+    color: var(--app-paragraph-color);
+}
+
 .info {
     position: fixed;
     z-index: 1001;

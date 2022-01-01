@@ -4,12 +4,16 @@
 }
 
 *, ::after, ::before {
-    box-sizing: border-box;
+    box-sizing: inherit;
     scroll-behavior: auto;
+    padding: 0;
+    margin: 0;
 }
 
 .bg {
+/*
     background: url("https://i.imgur.com/EbBo1of.png") center no-repeat fixed;
+*/
     background-size: cover;
     background-color: transparent;
     height: 100%;
@@ -18,13 +22,22 @@
 }
 
 .app-defaults {
-    --app-dark-background-color: rgb(63, 7, 7, 0.8);
-    --app-background-color: rgb(37, 15, 15, 0.75);
+/*
+    --app-dark-background-color: rgb(37, 15, 15, 0.75);
+    --app-background-color: rgb(63, 7, 7, 0.8);
     --app-foreground-color: rgb(115, 14, 14, 1.0);
     --app-header-color: rgb(218, 218, 218);
     --app-paragraph-color: rgb(221, 221, 221);
     --app-error-color: rgb(255, 165, 165);
     --app-font-family: "PC-9800";
+*/
+    --app-dark-background-color: #1a1c2e;
+    --app-background-color: #212335;
+    --app-foreground-color: #2b2d3f;
+    --app-header-color: #e0e0e0;
+    --app-paragraph-color: #ffffff;
+    --app-error-color: #ff8585;
+    --app-font-family: "Source Code Pro";
 }
 
 .app-defaults {
