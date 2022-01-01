@@ -89,7 +89,7 @@ export default class OptionsBar extends Component {
                 <div>
                 <div className="tablinks" style={{zIndex: 100}} id="open-options" onClick={() => {this.openOptionsBar();}}>Options</div>
                 <div className="options-sidebar" id="options-sidebar">
-                    <div className="closebtn-container"><div className="closebtn" onClick={() => {this.closeOptionsBar();}} /></div>
+                    <div className="closebtn-container" onClick={() => {this.closeOptionsBar();}} ><div className="closebtn" /></div>
                     <div className="options-links-container">
                         <div className="options-sidebar-links">
                             <div id="tab-default" className="tablinks" onClick={(e) => (this.openOptions(e, 'tab-work'))}>Work</div>
