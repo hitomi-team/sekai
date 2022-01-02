@@ -2,6 +2,7 @@ import { Component } from 'react';
 import WorkEditor from "./WorkEditor";
 import OptionsBar, { defaultOptions } from "./OptionsBar";
 import { newGenerator } from './Generator';
+import { initIndexedDB } from './Storage';
 import './App.css';
 
 export var currentOptions = null;
@@ -16,6 +17,7 @@ class App extends Component {
         this.onOptionsChange = this.onOptionsChange.bind(this);
         currentOptions = this.state.options;
         newGenerator(currentOptions.serverOptions.serverAddress, currentOptions.serverOptions.username, currentOptions.serverOptions.password);
+        initIndexedDB();
     }
 
     onOptionsChange(options) {
