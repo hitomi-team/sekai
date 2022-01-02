@@ -26,6 +26,16 @@
     border: medium none !important;
 }
 
+.prosemirror-editor p.empty-node:first-child::before {
+    content: "Start typing here...";
+    color: var(--app-text-color);
+    opacity: 0.5;
+    font-style: normal;
+    cursor: text;
+    pointer-events: none;
+    position: absolute;
+}
+
 .ProseMirror {
     background: transparent none repeat scroll 0% 0% !important;
     background-blend-mode:lighten;
@@ -51,7 +61,19 @@
 .ProseMirror > p {
     color: var(--app-paragraph-color);
 }
-
+/*
+.ProseMirror .empty-node::before {
+    position: absolute;
+    cursor: text;
+    color: var(--app-paragraph-color);
+    opacity: 0.5;
+    content: "Start typing here...";
+    pointer-events: none;
+    cursor: text;
+    text-indent: 10px;
+    padding-bottom: 0.5em;
+}
+*/
 .info {
     position: fixed;
     z-index: 1001;

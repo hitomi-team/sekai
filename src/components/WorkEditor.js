@@ -6,7 +6,7 @@ import { HtmlEditor, Editor, Toolbar } from '@aeaton/react-prosemirror';
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import { WorkSubmitter, submitWork } from './WorkSubmitter';
+import { WorkSubmitter, submitWork, placeholder } from './WorkSubmitter';
 
 import './WorkEditor.css';
 
@@ -26,7 +26,7 @@ const docSchema = new Schema({
                 parseDOM: [{ tag: 'br' }],
                 toDOM: () => ['br']
             }
-        }
+        },
     }
 });
 
@@ -38,7 +38,8 @@ const plugins = [
     }),
     keymap(baseKeymap),
     history(),
-    WorkSubmitter()
+    WorkSubmitter(),
+    placeholder(),
 ];
 
 export const leftToolbar = [
