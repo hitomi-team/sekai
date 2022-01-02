@@ -8,12 +8,28 @@
 }
 
 .loginbox {
-    background: var(--app-background-color);
+    background: var(--app-foreground-color);
     border-radius: 15px;
     padding: 50px;
     width: 400px;
     max-height: 100vh;
     overflow: auto;
+}
+
+.loginheadercontainer {
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+.loginheadertext {
+    color: var(--app-header-color);
+    font-size: 1.6rem;
+    font-weight: 600;
+    font-family: Georgia, serif;
+    padding-top: 8px;
+    user-select: none;
 }
 
 .loginerror {

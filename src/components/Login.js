@@ -32,9 +32,11 @@ class Login extends Component {
         return (
             <div className="login">
                 <form className="loginbox">
-                    <div>Login To Sekai</div>
-                    <div><label htmlFor="username" className="option-title">E-Mail</label></div>
-                    <input id="username" type="email" required="" onChange={(event) => {this.setState({username: event.target.value})}}/>
+                    <div className="loginheadercontainer">
+                        <div className="loginheadertext">Login to Sekai</div>
+                    </div>
+                    <div><label htmlFor="username" className="option-title">Username</label></div>
+                    <input id="username" type="username" required="" onChange={(event) => {this.setState({username: event.target.value})}}/>
                     <div><label htmlFor="password" className="option-title">Password</label></div>
                     <input id="password" type="password" required="" onChange={(event) => {this.setState({password: event.target.value})}}/>
                     <div className="tablinks" onClick={this.onLogin}>Login</div>
