@@ -1,0 +1,22 @@
+.login {
+    background: var(--app-dark-background-color) none repeat scroll 0% 0%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.loginbox {
+    background: var(--app-background-color);
+    border-radius: 15px;
+    padding: 50px;
+    width: 400px;
+    max-height: 100vh;
+    overflow: auto;
+}
+
+.loginerror {
+    color: var(--app-error-color);
+    font-size: 1.0rem;
+}

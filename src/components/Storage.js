@@ -10,13 +10,16 @@ export function clearLocalStorage(key) {
   localStorage.removeItem(key);
 }
 
+export function checkLocalStorage(key) {
+  return localStorage.getItem(key) !== null;
+}
+
 var indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
 const dbName = 'sekai';
 var db = null;
 
 export function initIndexedDB() {
     var request = indexedDB.open(dbName, 1);
-    console.log('initIndexedDB');
     request.onerror = function(event) {
         console.log('error opening db');
     };

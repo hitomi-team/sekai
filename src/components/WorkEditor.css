@@ -61,19 +61,7 @@
 .ProseMirror > p {
     color: var(--app-paragraph-color);
 }
-/*
-.ProseMirror .empty-node::before {
-    position: absolute;
-    cursor: text;
-    color: var(--app-paragraph-color);
-    opacity: 0.5;
-    content: "Start typing here...";
-    pointer-events: none;
-    cursor: text;
-    text-indent: 10px;
-    padding-bottom: 0.5em;
-}
-*/
+
 .info {
     position: fixed;
     z-index: 1001;

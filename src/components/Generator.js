@@ -56,20 +56,24 @@ class Sukima_API extends GeneratorAPI {
     constructor(baseUrl, username, password) {
         super(baseUrl, username, password);
         this.baseUrl = baseUrl;
-        this.auth(username, password);
     }
 
     auth(username, password) {
-        this.post_urlencoded('/api/v1/token', {
+        return this.post_urlencoded('/api/v1/users/token', {
             'username': username,
             'password': password
         }, false).then(response => response.json()).then(data => {
             this.token = data.access_token;
+            return this.token
         });
     }
 
+    get_token() {
+        return this.token;
+    }
+
     generate(args) {
-        let model="lit-6b";
+        let model="distilgpt2";
         let parameters = {
             "temp": args.genOptions.samplingTemperature,
             "top_p": args.genOptions.topPSampling,
@@ -90,7 +94,7 @@ class Sukima_API extends GeneratorAPI {
             "gen_args": gen_args
         };
 
-        return this.post('/api/v1/generate', request, this.token).then(response => response.json()).then(data => {
+        return this.post('/api/v1/models/generate', request, this.token).then(response => response.json()).then(data => {
             let truncated_response = data.completion.text.substring(args.work.length, data.completion.text.length);
             return truncated_response;
         });
@@ -106,6 +110,18 @@ export function newGenerator(baseUrl, username, password) {
 
 export function getGenerator() {
     return generator;
+}
+
+export function authenticate(username, password) {
+    return generator.auth(username, password).then(token => {
+        return token;
+    });
+}
+
+export function getToken() {
+    if (generator) {
+        return generator.get_token();
+    }
 }
 
 export { GeneratorAPI, Sukima_API };
